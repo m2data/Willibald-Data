@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # Das Datenmodell und die Daten für den Samen und Pflanzenhandel Willibald
 
 In diesem Projekt liegen die Daten und das Datenmodell für die fiktive Firma 'Samen und Pflanzenhandel Willibald'.
