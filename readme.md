@@ -12,7 +12,7 @@ Die Lieferung erfolgt dann möglichst zum gewünschten Termin. Da der Versand vo
 
 Das Datenmodell des Shops sieht wie folgt aus (Die Fragezeichen hinter den Attributen bedeuten, das es sich um keine Pflichtattribut handelt und der Inhalt NULL sein kann):
 
-![Shopdatenmodell Willibald](Willibald-Data/Datenmodell/webshop willibald.png)
+![Shopdatenmodell Willibald](Datenmodell\webshop willibald.png)
 
 Die VereinsPartner sind das Rückgrat für Willibalds Marketing. Seit der Gründung im Jahre 1926 hat der Samen und Pflanzenhandel Willibald besondere Konditionen und Vergünstigungen für Kleingarten- und Gartenbauvereine. Für jeden Verein gibt es einen Ansprechpartner unter den Kunden Jeder Kunde kann sich für seinen Verein registrieren lassen und so die Vereinsvergünstigungen erhalten. Der Seniorchef ist überzeugt, dass dieses Konzept die Firma Willibald durch alle Krisen gebracht hat.
 
