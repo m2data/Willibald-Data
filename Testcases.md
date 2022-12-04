@@ -14,7 +14,7 @@ Die Funktionalität von Stage und Raw Vault kann einfach überprüft werden. Hie
 
 Das Datenmodell enthält typische Fälle/Probleme/Herausforderungen/Muster für den Aufbau eines Data Vault. Das heisst nicht, dass man unbedingt das hier vorgeschlagene Lösungsmuster verwenden muss. Es reicht die dahinter liegende Situation so zu lösen, dass sich die Ladetabellen wieder herstellen lassen. Eine breite Abdeckung der typischen Lösungsmuster ist dennoch wünschenswert. Hier eine Übersicht der Data Vault Pattern in der Reihenfolge ihrer Veröffentlichung.
 
-![Publizierte Data Vault Pattern](Datenmodell\Publizierte-Data-Vault-Pattern.png)
+![Publizierte Data Vault Pattern](Willibald-Data\Datenmodell\Publizierte-Data-Vault-Pattern.png)
 
 
 
