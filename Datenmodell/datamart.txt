@@ -1,0 +1,39 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  graph [fontname = "Handlee"];
+  node [fontname = "Handlee"];
+  edge [fontname = "Handlee"];
+
+  bgcolor=transparent;
+  rankdir=TD
+
+Bestellposition [shape=box label=<
+        <TABLE>
+         <TR>
+          <TD BGCOLOR="bisque">Fakten Granularität Bestellposition</TD>
+         </TR>
+         <TR>
+          <TD BGCOLOR="white">Menge</TD>
+         </TR>
+         <TR>
+          <TD BGCOLOR="white">Erlös</TD>
+         </TR>
+         <TR>
+          <TD BGCOLOR="white">Abweichung zwischen Wunsch und Lieferdatum in Tagen</TD>
+         </TR>
+        </TABLE>
+    >
+]
+
+VereinsPartner->Kunde
+Kunde->Bestellung
+VereinsPartner->Bestellung
+Kunde->Lieferadresse
+Lieferadresse->Bestellung
+Lieferadresse->Bestellposition
+Bestellung->Bestellposition
+Kategorie->Produkt
+Produkt->Bestellposition
+Termintreue->Bestellposition
+}

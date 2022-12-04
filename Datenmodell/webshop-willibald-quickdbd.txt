@@ -1,0 +1,109 @@
+Kunde
+---
+KundeID char(13)  PK
+VereinsPartnerID varchar(30) null FK -< VereinsPartner.VereinsPartnerID
+Vorname  varchar(128)
+Name varchar(128)
+Geschlecht char null
+Geburtsdatum date
+Telefon varchar(20) null
+Mobil varchar(20) null
+Email  varchar(128) null
+Kreditkarte varchar(30)
+GueltigBis char(5)
+KKFirma  varchar(128)
+
+
+Wohnort
+---
+KundeID char(13) PK FK >- Kunde.KundeID
+Von date PK
+Bis date null
+Strasse varchar(128)
+Hausnummer varchar(10)
+Adresszusatz varchar(128) null
+Plz varchar(10)
+Ort varchar(128)
+Land varchar(128) null
+
+
+Lieferadresse
+---
+LieferAdrID int PK
+KundeID char(13)  FK >- Kunde.KundeID
+Strasse varchar(128)
+Hausnummer varchar(10)
+Adresszusatz varchar(128) null
+Plz varchar(10)
+Ort varchar(128)
+Land varchar(128) null
+
+
+VereinsPartner
+---
+VereinsPartnerID varchar(30) PK
+KundeIDVerein char(13)  FK -< Kunde.KundeID
+Rabatt1 int
+Rabatt2 int
+Rabatt3 int
+
+
+Kategorie
+---
+KatID varchar(50) PK
+OberKatID varchar(50) null FK >- Kategorie.KatID
+Name varchar(512)
+
+
+Produkt
+---
+ProduktID int PK
+KatID varchar(50) FK >- Kategorie.KatID
+Bezeichnung varchar(512)
+Umfang varchar(128)
+Typ int
+Preis decimal(5,2)
+Pflanzort varchar(128)
+Pflanzabstand varchar(128)
+
+Bestellung
+---
+BestellungID bigint PK
+KundeID char(13)  FK >- Kunde.KundeID
+AllgLieferAdrID int FK >- Lieferadresse.LieferAdrID
+Bestelldatum date
+Wunschdatum date
+Rabatt numeric(5,2)
+
+
+Position
+---
+BestellungID bigint PK FK >- Bestellung.BestellungID
+PosID bigint PK
+ProduktID int FK >- Produkt.ProduktID
+SpezLieferAdrID int NULL FK >- Lieferadresse.LieferAdrID
+Menge int
+Preis numeric(10,2)
+
+
+Lieferung
+---
+BestellungID bigint PK FK >- Position.BestellungID
+PosID bigint PK FK >- Position.PosID
+LieferAdrID int PK FK >- Lieferadresse.LieferAdrID
+LieferDienstID  varchar(30) PK FK >- LieferDienst.LieferDienstID
+LieferDatum date
+
+
+LieferDienst
+---
+LieferDienstID  varchar(30) PK
+Name varchar(128)
+Telefon varchar(20)
+Fax varchar(20) null
+Email  varchar(128)
+Strasse varchar(128)
+Hausnummer varchar(10)
+Plz varchar(10)
+Ort varchar(128)
+Land varchar(128) null

@@ -1,0 +1,65 @@
+﻿KatID;OberKatID;Name
+G;;Gemüse
+GMi;G;Mittelzehrer
+GMiAMARANTH ;GMi;Amaranth 
+GMiBETE ;GMi;Bete 
+GMiCHILI ;GMi;Chili 
+GMiFENCHEL ;GMi;Fenchel 
+GMiKOHLRABI ;GMi;Kohlrabi 
+GMiLAUCHZWIEBEL ;GMi;Lauchzwiebel 
+GMiMANGOLD ;GMi;Mangold 
+GMiMÖHRE ;GMi;Möhre 
+GMiPAPRIKA ;GMi;Paprika 
+GMiPASTINAKE ;GMi;Pastinake 
+GMiPFEFFERONI ;GMi;Pfefferoni 
+GMiRETTICH ;GMi;Rettich 
+GMiSALAT ;GMi;Salat 
+GMiSCHWARZWURZEL ;GMi;Schwarzwurzel 
+GMiSPINAT ;GMi;Spinat 
+GSc;G;Schwachzehrer
+GScBOHNE ;GSc;Bohne 
+GScERBSE ;GSc;Erbse 
+GScMAIRÜBE ;GSc;Mairübe 
+GScRADIESCHEN ;GSc;Radieschen 
+GScSALAT ;GSc;Salat 
+GSt;G;Starkzehrer
+GStANDENBEERE ;GSt;Andenbeere 
+GStAUBERGINE ;GSt;Aubergine 
+GStBLUMENKOHL ;GSt;Blumenkohl 
+GStBROKKOLI ;GSt;Brokkoli 
+GStCHINAKOHL ;GSt;Chinakohl 
+GStGRÜNKOHL ;GSt;Grünkohl 
+GStGURKE ;GSt;Gurke 
+GStKÜRBIS ;GSt;Kürbis 
+GStLAUCH ;GSt;Lauch 
+GStMELONE ;GSt;Melone 
+GStPALMKOHL ;GSt;Palmkohl 
+GStROSENKOHL ;GSt;Rosenkohl 
+GStROTKOHL ;GSt;Rotkohl 
+GStSELLERIE ;GSt;Sellerie 
+GStTOMATE ;GSt;Tomate 
+GStWEIßKOHL ;GSt;Weißkohl 
+GStWIRSING ;GSt;Wirsing 
+GStZUCCHINI ;GSt;Zucchini 
+GStZUCKERMAIS ;GSt;Zuckermais 
+K;;Kräuter
+KMi;K;Mittelzehrer
+KMiPETERSILIE ;KMi;Petersilie 
+KSc;K;Schwachzehrer
+KScBASILIKUM ;KSc;Basilikum 
+KScBRUNNENKRESSE;KSc;Brunnenkresse
+KScDILL ;KSc;Dill 
+KScKNOBLAUCHSRAUKE;KSc;Knoblauchsrauke
+KScKORIANDER;KSc;Koriander
+KScLAUCH-HELLERKRAUT;KSc;Lauch-Hellerkraut
+P;;Pflanzgut
+PMi;P;Mittelzehrer
+PMiKNOBLAUCH ;PMi;Knoblauch 
+PMiKNOLLIGER ;PMi;Knolliger 
+PMiSCHALOTTE ;PMi;Schalotte 
+PMiZWIEBEL ;PMi;Zwiebel 
+PSc;P;Schwachzehrer
+PScTOPINAMBUR ;PSc;Topinambur 
+PSt;P;Starkzehrer
+PStKARTOFFEL ;PSt;Kartoffel 
+PStSÜßKARTOFFEL ;PSt;Süßkartoffel 

@@ -1,0 +1,65 @@
+﻿KatID;OberKatID;Name
+Mi;;Mittelzehrer
+MiG;Mi;Gemüse
+MiGAMARANTH ;MiG;Amaranth 
+MiGBETE ;MiG;Bete 
+MiGCHILI ;MiG;Chili 
+MiGFENCHEL ;MiG;Fenchel 
+MiGKOHLRABI ;MiG;Kohlrabi 
+MiGLAUCHZWIEBEL ;MiG;Lauchzwiebel 
+MiGMANGOLD ;MiG;Mangold 
+MiGMÖHRE ;MiG;Möhre 
+MiGPAPRIKA ;MiG;Paprika 
+MiGPASTINAKE ;MiG;Pastinake 
+MiGPFEFFERONI ;MiG;Pfefferoni 
+MiGRETTICH ;MiG;Rettich 
+MiGSALAT ;MiG;Salat 
+MiGSCHWARZWURZEL ;MiG;Schwarzwurzel 
+MiGSPINAT ;MiG;Spinat 
+MiK;Mi;Kräuter
+MiKPETERSILIE ;MiK;Petersilie 
+MiP;Mi;Pflanzgut
+MiPKNOBLAUCH ;MiP;Knoblauch 
+MiPKNOLLIGER ;MiP;Knolliger 
+MiPSCHALOTTE ;MiP;Schalotte 
+MiPZWIEBEL ;MiP;Zwiebel 
+Sc;;Schwachzehrer
+ScG;Sc;Gemüse
+ScGBOHNE ;ScG;Bohne 
+ScGERBSE ;ScG;Erbse 
+ScGMAIRÜBE ;ScG;Mairübe 
+ScGRADIESCHEN ;ScG;Radieschen 
+ScGSALAT ;ScG;Salat 
+ScK;Sc;Kräuter
+ScKBASILIKUM ;ScK;Basilikum 
+ScKBRUNNENKRESSE;ScK;Brunnenkresse
+ScKDILL ;ScK;Dill 
+ScKKNOBLAUCHSRAUKE;ScK;Knoblauchsrauke
+ScKKORIANDER;ScK;Koriander
+ScKLAUCH-HELLERKRAUT;ScK;Lauch-Hellerkraut
+ScP;Sc;Pflanzgut
+ScPTOPINAMBUR ;ScP;Topinambur 
+St;;Starkzehrer
+StG;St;Gemüse
+StGANDENBEERE ;StG;Andenbeere 
+StGAUBERGINE ;StG;Aubergine 
+StGBLUMENKOHL ;StG;Blumenkohl 
+StGBROKKOLI ;StG;Brokkoli 
+StGCHINAKOHL ;StG;Chinakohl 
+StGGRÜNKOHL ;StG;Grünkohl 
+StGGURKE ;StG;Gurke 
+StGKÜRBIS ;StG;Kürbis 
+StGLAUCH ;StG;Lauch 
+StGMELONE ;StG;Melone 
+StGPALMKOHL ;StG;Palmkohl 
+StGROSENKOHL ;StG;Rosenkohl 
+StGROTKOHL ;StG;Rotkohl 
+StGSELLERIE ;StG;Sellerie 
+StGTOMATE ;StG;Tomate 
+StGWEIßKOHL ;StG;Weißkohl 
+StGWIRSING ;StG;Wirsing 
+StGZUCCHINI ;StG;Zucchini 
+StGZUCKERMAIS ;StG;Zuckermais 
+StP;St;Pflanzgut
+StPKARTOFFEL ;StP;Kartoffel 
+StPSÜßKARTOFFEL ;StP;Süßkartoffel 
