@@ -16,7 +16,7 @@ Die Lieferung erfolgt dann möglichst zum gewünschten Termin. Da der Versand vo
 
 Das Datenmodell des Shops sieht wie folgt aus (Die Fragezeichen hinter den Attributen bedeuten, das es sich um keine Pflichtattribut handelt und der Inhalt NULL sein kann):
 
-![Shopdatenmodell Willibald](Datenmodell\webshop willibald.png)
+![Shopdatenmodell Willibald](Datenmodell\webshop-willibald.png)
 
 Die VereinsPartner sind das Rückgrat für Willibalds Marketing. Seit der Gründung im Jahre 1926 hat der Samen und Pflanzenhandel Willibald besondere Konditionen und Vergünstigungen für Kleingarten- und Gartenbauvereine. Für jeden Verein gibt es einen Ansprechpartner unter den Kunden Jeder Kunde kann sich für seinen Verein registrieren lassen und so die Vereinsvergünstigungen erhalten. Der Seniorchef ist überzeugt, dass dieses Konzept die Firma Willibald durch alle Krisen gebracht hat.
 
@@ -26,7 +26,7 @@ Von der Roadshow kommen die Daten aus dem Kassensystem. Jeder Umsatz wird eindeu
 
 Das Datenmodell des Kassensystems:
 
-![Datenmodell Kassensystem](Datenmodell\Roadashow.png)
+![Datenmodell Kassensystem](Datenmodell\Roadshow.png)
 
 Geliefert werden die Daten in einer Tabelle in der Struktur, wie sie hier auch die Tabelle Bestellung hat. Dabei sind die Attribute BestellungID, KundeID, VereinsPartnerID, Kreditkarte, GueltigBis und KKFirma redundant vorgehalten und dienen als Header Informationen für den Rest der Attribute (bzw. eigentlich die Items). Die Header-Attrbiute sind dabei immer für alle Items gleich. Hier stimmt bisher die Datenqualität.
 
