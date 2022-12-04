@@ -14,7 +14,7 @@ Die Funktionalität von Stage und Raw Vault kann einfach überprüft werden. Hie
 
 Das Datenmodell enthält typische Fälle/Probleme/Herausforderungen/Muster für den Aufbau eines Data Vault. Das heisst nicht, dass man unbedingt das hier vorgeschlagene Lösungsmuster verwenden muss. Es reicht die dahinter liegende Situation so zu lösen, dass sich die Ladetabellen wieder herstellen lassen. Eine breite Abdeckung der typischen Lösungsmuster ist dennoch wünschenswert. Hier eine Übersicht der Data Vault Pattern in der Reihenfolge ihrer Veröffentlichung.
 
-![Publizierte Data Vault Pattern](Datenmodell\Publizierte-Data-Vault-Pattern.png)
+![Publizierte Data Vault Pattern](Datenmodell/Publizierte-Data-Vault-Pattern.png)
 
 
 
@@ -22,7 +22,7 @@ Das Datenmodell enthält typische Fälle/Probleme/Herausforderungen/Muster für 
 
 Die Kategorie zum Produkt ist ein klassischer Hierarchical Link.
 
-![Kategorie als hierarchical Link](Datenmodell\Kategorie_hier_link.png)
+![Kategorie als hierarchical Link](Datenmodell/Kategorie_hier_link.png)
 
 
 
@@ -30,7 +30,7 @@ Die Kategorie zum Produkt ist ein klassischer Hierarchical Link.
 
 Die Entität Wohnorte hat asl Primärschlüssel die KundeID und die Zeit und ist damit prädestiniert für einen multi-active Satelliten.
 
-![Wohnort mit weak key](Datenmodell\Kunde_Wohnort.png)
+![Wohnort mit weak key](Datenmodell/Kunde_Wohnort.png)
 
 
 
@@ -38,7 +38,7 @@ Die Entität Wohnorte hat asl Primärschlüssel die KundeID und die Zeit und ist
 
 Zwischen Bestellung und Position kann sich die Beziehung nicht ändern. Die Schlüsselsituation macht aus jeder Änderung eine Löschung und eine Neuanlage.
 
-![Identifying und driving key Relationships](Datenmodell\driving-identifying-relationships.png)
+![Identifying und driving key Relationships](Datenmodell/driving-identifying-relationships.png)
 
 Bei allen anderen Beziehungen können sich die Beziehungen ändern. Die Testfälle sind alle auf dem Fremdschlüssel im Kunden zum Vereinspartner implementiert. Hier kommt es zu folgenden Situationen:
 
@@ -52,7 +52,7 @@ Bei allen anderen Beziehungen können sich die Beziehungen ändern. Die Testfäl
 
 Die Tabelle der Lieferungen hat keinen eigenen Primärschlüssel und erfolgt in der Regel auch nur einmal, da nur die erfolgreichen Lieferungen an das dwh übermittelt werden.
 
-![Lieferung als m:n](Datenmodell\Lieferung.png)
+![Lieferung als m:n](Datenmodell/Lieferung.png)
 
 Das lässt sich auf mehrere mögliche Arten lösen: keyed instance, transactional link, dependend child link, ...
 
@@ -62,7 +62,7 @@ Das lässt sich auf mehrere mögliche Arten lösen: keyed instance, transactiona
 
 Wir haben 2 Quellen. Diese sollen integriert in die Hubs Bestellung und Position geladen werden. Die Primärschlüssel beider Systeme werden einfach nur hochgezählt.
 
-![Bestellung - webshop vs. Roadshow](Datenmodell\Bestellung-webshop-vs-roadshow.png)
+![Bestellung - webshop vs. Roadshow](Datenmodell/Bestellung-webshop-vs-roadshow.png)
 
 
 
