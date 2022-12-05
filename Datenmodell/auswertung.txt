@@ -26,8 +26,14 @@ Bestellposition [shape=box label=<
     >
 ]
 
-VereinsPartner_Kunde_Lieferadresse_Bestellung->Bestellposition
-VereinsPartner_Bestellung->Bestellposition
-Kategorie_Produkt->Bestellposition
+VereinsPartner->Kunde
+Kunde->Bestellung
+VereinsPartner->Bestellung
+Kunde->Lieferadresse
+Lieferadresse->Bestellung
+Lieferadresse->Bestellposition
+Bestellung->Bestellposition
+Kategorie->Produkt
+Produkt->Bestellposition
 Termintreue->Bestellposition
 }
