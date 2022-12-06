@@ -60,7 +60,9 @@ Das lässt sich auf mehrere mögliche Arten lösen: keyed instance, transactiona
 
 ### Integration der Bestellung
 
-Wir haben 2 Quellen. Diese sollen integriert in die Hubs Bestellung und Position geladen werden. Die Primärschlüssel beider Systeme werden einfach nur hochgezählt.
+Wir haben 2 Quellen. Diese sollen integriert in die Hubs Bestellung und Position geladen werden. Die Primärschlüssel beider Systeme werden einfach nur hochgezählt. Die Roadshow hat zusätzlich ein ‚RS‘ zur sicheren Unterscheidung.
+
+Man könnte argumentieren, dass die Integration im Business Vault stattfinden soll. Weil die Schlüssel nicht wirklich gleich sind, die Mengen disjunkt, es viel sicherer ist. Das sind alles valide Argumente. Hier geht es darum, die Fähigkeit zur frühen Integration zu präsentieren.
 
 ![Bestellung - webshop vs. Roadshow](Datenmodell/Bestellung-webshop-vs-roadshow.png)
 
@@ -82,7 +84,7 @@ Für den Produkttyp gibt es eine Liste von Referenzwerten:
 
 ## Testfälle in den Daten
 
-Wir bekommen 3 komplette Lieferungen. Die Asuwertung der Daten erfolgt auf diesen 3 Lieferungen und muss jeweils die korrekten Daten liefern.
+Wir bekommen 3 komplette Lieferungen. Die Auswertung der Daten erfolgt auf diesen 3 Lieferungen und muss jeweils die korrekten Daten liefern.
 
 
 
@@ -166,7 +168,7 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 - Erlös in offenen Aufträgen
   Die Kennzahl Erlös für Bestellungen, die nocht nicht vollständig geliefert sind.
 - Abweichung zwischen Wunsch und Lieferdatum in Tagen
-  Wenn jede Postion geliefert wurde, errechnet sich die Abweichung aus dem Bestellung.Wunschdatum und dem letzten Lieferung.LieferDatum. Wenn die Lieferung vor dem Wunschtermin erfolgt ist, dann ist die Abweichung negativ. Willibald will pünktlichst liefern, denn auch zu frühe Lieferungen führen beim Kunden zu Problemen (Pflege von Setzlingen).
+  Wenn jede Position geliefert wurde, errechnet sich die Abweichung aus dem Bestellung.Wunschdatum und dem letzten Lieferung.LieferDatum. Wenn die Lieferung vor dem Wunschtermin erfolgt ist, dann ist die Abweichung negativ. Willibald will pünktlichst liefern, denn auch zu frühe Lieferungen führen beim Kunden zu Problemen (Pflege von Setzlingen).
 - Bestellungen ohne Kunden sind immer aus der Roadshow, deshalb muss ein Dummy Kunde 'Roadshow' eingefügt werden.
 
 

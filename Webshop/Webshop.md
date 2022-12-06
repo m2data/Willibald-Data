@@ -70,7 +70,7 @@ Periode 2: 7 Sätze
 Periode 3: 7 Sätze
 
 von 1 auf 2: 1 Insert
-von 2 auf 3: 1, Insert, 1 Update, 1 Delete
+von 2 auf 3: 1, Insert, 1 Update, 1 Delete (Umbenennung des Vereinspartners Ruhrmorig in Morgenstern)
 
 ## Kategorie
 Periode 1:  64 Sätze
