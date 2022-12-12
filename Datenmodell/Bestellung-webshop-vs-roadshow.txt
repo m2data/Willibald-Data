@@ -1,0 +1,34 @@
+Bestellung_Webshop
+---
+BestellungID bigint PK
+KundeID char(13)  FK 
+AllgLieferAdrID int FK 
+Bestelldatum date
+Wunschdatum date
+Rabatt numeric(5,2)
+
+
+Position_Webshop
+---
+BestellungID bigint PK FK >- Bestellung_Webshop.BestellungID
+PosID bigint PK
+ProduktID int FK 
+SpezLieferAdrID int NULL 
+Menge int
+Preis numeric(10,2)
+
+
+Bestellung_Roadshow
+---
+BestellungID varchar(128) PK
+KundeID char(13) NULL FK 
+VereinsPartnerID int FK 
+Kaufdatum date
+Kreditkarte varchar(30) null
+GueltigBis char(5) null
+KKFirma  varchar(128) null
+ProduktID int FK 
+Menge int
+Preis numeric(10,2)
+Rabatt numeric(5,2) null
+
