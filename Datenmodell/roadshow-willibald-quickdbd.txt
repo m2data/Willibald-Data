@@ -39,7 +39,7 @@ Bestellung
 ---
 BestellungID varchar(128) PK
 KundeID char(13) NULL FK >- Kunde.KundeID
-VereinsPartnerID int FK >- VereinsPartner.VereinsPartnerID
+VereinsPartnerID varchar(30) FK >- VereinsPartner.VereinsPartnerID
 Kaufdatum date
 Kreditkarte varchar(30) null
 GueltigBis char(5) null

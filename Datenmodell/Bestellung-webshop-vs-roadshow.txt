@@ -22,7 +22,7 @@ Bestellung_Roadshow
 ---
 BestellungID varchar(128) PK
 KundeID char(13) NULL FK 
-VereinsPartnerID int FK 
+VereinsPartnerID varchar(30) FK 
 Kaufdatum date
 Kreditkarte varchar(30) null
 GueltigBis char(5) null
