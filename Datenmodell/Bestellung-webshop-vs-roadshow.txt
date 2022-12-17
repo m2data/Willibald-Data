@@ -27,7 +27,7 @@ Kaufdatum date
 Kreditkarte varchar(30) null
 GueltigBis char(5) null
 KKFirma  varchar(128) null
-ProduktID int FK 
+ProduktID int PK FK 
 Menge int
 Preis numeric(10,2)
 Rabatt numeric(5,2) null

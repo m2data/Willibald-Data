@@ -26,8 +26,8 @@ Periode 2: 350 Sätze
 
 Periode 3:  410 Sätze
 
-von 1 auf 2: 50 Inserts, 14 Updates
-von 2 auf 3: 60 Inserts, 41 Updates
+von 1 auf 2: 50 Inserts, 14 Updates, 1 Delete
+von 2 auf 3: 61 Inserts, 41 Updates (KundeID 70 wird reanimiert)
 
 ## Wohnort
 Periode 1:  700 Sätze
@@ -61,6 +61,8 @@ Periode 3: 1025 Sätze
 
 von 1 auf 2: 105 Inserts
 von 2 auf 3: 120 Inserts. 88 Updates
+
+6 Sätze ohne ein Äquivalent im Kunden (KundeID 997, 998, 999)
 
 ## VereinsPartner
 Periode 1:  6 Sätze
@@ -102,7 +104,12 @@ Periode 3: 2062 Sätze
 von 1 auf 2: 737 Inserts
 von 2 auf 3: 525 Inserts
 
-- [ ] Löschungen von Bestellung
+Löschungen:
+
+​	•Zwischen Periode 1 und 2 die BestellungID 99, 220 und 465.
+
+​	•Zwischen Periode 2 und 3 die BestellungID 1470 und die 1288.
+
 - [ ] Änderung von Wunschdatum
 
 ## Position

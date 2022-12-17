@@ -1,0 +1,2 @@
+INSERT INTO [LieferDienst] ([LieferDienstID], [Name], [Telefon], [Fax], [Email], [Strasse], [Hausnummer], [Plz], [Ort], [Land]) VALUES	 (NULL, 'Schalalala OHG', '0505/50366070', '05405/46703889', 'hugobodenmueller@trashmail.none', 'Johann-Wilhelm-Roth-Straße', '101', '56244',  'Goddert', 'Niedersachsen')
+INSERT INTO [LieferDienst] ([LieferDienstID], [Name], [Telefon], [Fax], [Email], [Strasse], [Hausnummer], [Plz], [Ort], [Land]) VALUES	 (NULL, 'Femen AG', '06257/27937692', NULL, 'i_platzek@hoster.none', 'Westkirchener Straße', '198', '9125', 'Chemnitz', NULL)

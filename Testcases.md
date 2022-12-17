@@ -90,9 +90,10 @@ Wir bekommen 3 komplette Lieferungen. Die Auswertung der Daten erfolgt auf diese
 
 ### Dubletten in den Ladedaten
 
-Im Produkt sind 2 Arten von Dubletten. Im ersten Fall handelt es sich um eine tatsächliche Dublette, alle Attribute sind gleich. Im zweiten Fall widersprechen sich die Attribute.
+Im Produkt sind 2 Arten von Dubletten. Im ersten Fall handelt es sich um eine tatsächliche Dublette, alle Attribute sind gleich. Im zweiten Fall widersprechen sich die Attribute. Die Daten sind in Testcases/Dubletten.sql:
 
-- tdb: ProduktID dokumentieren
+- ProduktID 20 ist die tatsächliche Dublette
+- ProduktID 21 ist ein ganz anderes Produkt
 
 Hier wollen wir nur sehen, wie damit umgegangen wird.
 
@@ -102,31 +103,25 @@ Hier wollen wir nur sehen, wie damit umgegangen wird.
 
 In der Tabelle Lieferdienst gibt es Datensätze mit gültigen Werten ohne Schlüssel. Auch hier nur die Frage, wie damit umgegangen wird.
 
-- tbd: Satz anlegen und hier zeigen
+In testcases/Missing-BusinessKey.sql sind zwei Lieferdienste ohne Business Key.
 
 
 
 ### Änderungen in den Kundendaten
 
-Ein ganz einfacher Testfall, die Daten im Kunden ändern sind in Lieferung 2 auf einen Wert und bekommen in Lieferung 3 wieder die Werte aus Lieferung 1.
-
-- tbd: KundeID dokumentieren
+Ein ganz einfacher Testfall, die Daten im Kunden ändern sich in Lieferung 2 auf einen Wert und bekommen in Lieferung 3 wieder die Werte aus Lieferung 1. Der Testfall liegt auf der KundedID 107
 
 
 
 ### Löschungen im Kunden
 
-Im Kunden gibt es Fälle, bei denen der Kunde in der zweiten Lieferung gelöscht wurde und in der dritten Lieferung wieder auftaucht:
-
-- tbd: KundeID dokumentieren
+Im Kunden gibt es Fälle, bei denen der Kunde in der zweiten Lieferung gelöscht wurde und in der dritten Lieferung wieder auftaucht. Ein Testfall ist Kunde 70.
 
 
 
 ### Lieferadressen ohne Kunde
 
-In der ersten Lieferung sind Lieferadressen enthalten, für die es im Kunden keinen Satz mit gleicher KundeID gibt.
-
-- tbd: Satz anlegen und dokumentieren
+In der ersten Lieferung sind Lieferadressen enthalten, für die es im Kunden keinen Satz mit gleicher KundeID gibt. Die Sätze haben die KundeID 999, 998 und 997.
 
 
 
@@ -136,8 +131,8 @@ Die Bestellungen sind zählungsrelevant und werden zwischen den Lieferungen gel�
 
 Gelöschte Lieferungen:
 
-- zwischen 1 und 2
-- zwischen 2 und 3
+- zwischen 1 und 2 die BestellungID 99, 220 und 465.
+- zwischen 2 und 3 die BestellungID 1470 und die 1288.
 
 
 

@@ -1,4 +1,4 @@
-﻿LieferAdrID;KundeID ;Strasse ;Hausnummer ;Adresszusatz ;Plz ;Ort ;Land 
+﻿LieferAdrID;KundeID;Strasse;Hausnummer;Adresszusatz;Plz;Ort;Land
 1;1;Klingenhagen;39;;67271;Kleinkarlbach;
 2;87;Brockamp;129;;54558;Strohn;
 3;260;Schlesierweg;180;;39264;Jütrichau;
@@ -799,3 +799,9 @@
 798;251;Walther-Rathenau-Straße;82;;25563;Wulfsmoor;
 799;275;Wambachstraße;48;;79877;Friedenweiler;
 800;200;Am Schafbach;176;;76879;Ottersheim;
+999999;999;Floßweg;28;;25792;Strübbel;
+999998;999;Enggasse;7;;25588;Mehlbek;
+999997;998;Rheingoldstraße;138;;91793;Alesheim;
+999996;997;Theisfloss;57;;63869;Heigenbrücken;
+999995;997;Hahner Straße;77;;78250;Tengen;
+999994;997;Hallenstraße;145;;24881;Nübel;

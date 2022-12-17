@@ -1,4 +1,4 @@
-﻿KundeID;VereinsPartnerID ;Vorname ;Name ;Geschlecht ;Geburtsdatum ;Telefon ;Mobil ;Email ;Kreditkarte ;GueltigBis ;KKFirma 
+﻿KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Email;Kreditkarte;GueltigBis;KKFirma
 1;;Emmaliese;Medina;w;18.10.1995;06753/65916995;0159/6448938;e_95@company.none;746669230000;03/13;VISA
 2;;Steffen;Katz;;25.10.2009;;0164/3633985;steffen_katz@bestmail.none;096805232800;01/15;VISA
 3;GlückAuf;Karlo;Wieland;;13.09.1938;02692/83118037;0165/7430575;k-wieland@private.none;257435174000;08/90;Mastercard
@@ -68,7 +68,6 @@
 67;;Margrit;Händler;w;09.02.1962;;0170/8890846;margrit_62@hoster.none;314785352000;10/20;Mastercard
 68;GlückAuf;Ambros;Hanemann;m;25.08.1988;05875/61951269;0168/2390726;ambroshanemann@spam-mail.none;933306009800;11/12;American Express
 69;;Kathrina;Lüttich;d;24.07.1955;02692/44265118;0156/5593583;kathrina_luettich@funmail.none;662406030000;09/01;Mastercard
-70;Ruhrmorig;Jörn;Göpfert;m;08.12.1923;02691/2774377;0150/5469457;joern.goepfert@justmail.none;827206911900;09/19;Mastercard
 71;Blaetterglueck;Tiemo;Hamacher;m;16.07.1939;06551/61635596;0179/8130491;t-hamacher@xyz.none;937205010100;04/19;VISA
 72;;Magdalene;Fritsche;w;25.12.2020;;0172/8658234;magdalene.20@goggle-mail.none;737635156000;12/17;American Express
 73;WochenendGLück;Käthi;Kupsch;;21.01.1996;04282/98612255;0178/9213730;kaethi_kupsch@goggle-mail.none;664404003700;09/92;Mastercard
@@ -105,7 +104,7 @@
 104;;Sigfried;Veith;m;22.06.1955;;;sigfried_veith@quickmail.none;157005180500;10/90;Mastercard
 105;;Mechthilde;Fitzner;w;10.01.1963;08230/88088649;0152/5415707;mechthilde.fitzner@email.none;157425000000;05/06;VISA
 106;;Rosely;Eggers;w;18.01.1974;06771/25012286;0154/7614104;rosely_1974@quickmail.none;572004000000;02/83;VISA
-107;GlückAuf;Waltraud;Thier;w;31.12.1951;07157/85249796;0165/4543863;waltraudthier@web.none;642508002000;12/10;American Express
+107;GlückAuf;Walter;Thier;m;31.12.1951;07157/85249796;0165/4543863;walterthier@web.none;642508002000;12/10;American Express
 108;;Willibert;Wanders;;18.01.1932;07025/19172323;0179/3613414;willibert_wanders@justmail.none;655866190100;01/16;VISA
 109;Ruhrmorig;Elrike;Buchheim;w;13.05.1977;04153/5921214;;elrike_buchheim@goggle-mail.none;842666006000;08/19;Mastercard
 110;Blaetterglueck;Mattis;Burghard;m;01.07.1938;02832/93682161;0166/1288184;mattis_burghard@quickmail.none;432916269700;07/16;Mastercard
@@ -349,3 +348,4 @@
 348;;Reni;Alm;w;10.01.1910;;0152/8851846;ralm@net-mail.none;DE37590501010005978241;12/20;American Express
 349;;Franzpeter;Klinke;m;02.09.1913;;0173/8915147;franzpeterklinke@email.none;DE81753519600006985114;10/09;Mastercard
 350;;Hilgrun;Toth;w;25.01.1975;06753/3031755;0179/7399492;h_toth@live-mail.none;DE95301502000000959781;07/80;Mastercard
+350;;Hilgrun;Toth;w;25.01.1975;06753/3031755;0179/7399492;h_toth@live-mail.none;DE95301502000000959781;Jul 80;Mastercard
