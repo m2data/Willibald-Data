@@ -6,7 +6,7 @@ digraph G {
   edge [fontname = "Handlee"];
 
   bgcolor=transparent;
-  rankdir=LR
+  rankdir=TD
 
 Bestellposition [shape=box label=<
         <TABLE>
@@ -26,16 +26,19 @@ Bestellposition [shape=box label=<
           <TD BGCOLOR="white">Vollständig gelieferter Auftrag</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Abweichung zwischen Wunsch- und Lieferdatum in Tagen</TD>
+          <TD BGCOLOR="white">Abweichung zwischen Wunsch und Lieferdatum in Tagen</TD>
          </TR>
         </TABLE>
     >
 ]
 
-VereinsPartner_Kunde_Bestellung->Bestellposition
-VereinsPartner_Bestellung->Bestellposition
-Kategorie_Produkt->Bestellposition
-Berichtszeitpunkt->Bestellposition
-Verkaufsdatum->Bestellposition
-
+VereinsPartner->Kunde
+Kunde->Bestellung
+VereinsPartner->Bestellung
+Kunde->Lieferadresse
+Lieferadresse->Bestellung
+Lieferadresse->Bestellposition
+Bestellung->Bestellposition
+Kategorie->Produkt
+Produkt->Bestellposition
 }

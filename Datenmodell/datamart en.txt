@@ -32,15 +32,10 @@ orderitem [shape=box label=<
     >
 ]
 
-AssociationPartner->Customer
-Customer->Order
-AssociationPartner->Order
-Customer->Delivery_address
-Delivery_address->Order
-Delivery_address->orderitem
-Order->orderitem
-Category->Product
-Product->orderitem
+Association_partner_customer_order->orderitem
+Association_partner_order->orderitem
+Category_Product->orderitem
 Report_date->orderitem
 Sales_date->orderitem
+
 }

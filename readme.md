@@ -39,11 +39,11 @@ Der gewünschte Report für Willibald umfasst folgende Kennzahlen auf Granularit
 - Menge
   Die Menge an bestellten Produkten pro Produkt. Diese Kennzahl wird direkt aus der Bestellposition übernommen.
 - Erlös
-  Die Höhe des Geldes, die für die bestellte Produktmenge zu bezahlen ist. Hierzu werden Menge und Preis aus er Bestellposition multipliziert und anschließend der Rabatt abgezogen.
-- Menge in offenen Aufträgen
-  Die Kennzahl Menge für Bestellungen, die noch nicht vollständig geliefert sind.
-- Erlös in offenen Aufträgen
-  Die Kennzahl Erlös für Bestellungen, die nocht nicht vollständig geliefert sind.
+  Die Höhe des Geldes, die für die bestellte Produktmenge zu bezahlen ist. Hierzu werden Menge und Preis aus der Bestellposition multipliziert und anschließend der Rabatt abgezogen.
+- Offener Auftrag
+  Eine 1 als kurze Kennzeichnung, ob dieser Auftrag noch offen ist.
+- Vollständig gelieferter Auftrag
+  Eine 1 als kurze Kennzeichnung, ob dieser Auftrag bereits vollständig geliefert ist.
 - Abweichung zwischen Wunsch und Lieferdatum in Tagen
   Wenn jede Position geliefert wurde, errechnet sich die Abweichung aus dem Bestellung.Wunschdatum und dem letzten Lieferung.LieferDatum. Wenn die Lieferung vor dem Wunschtermin erfolgt ist, dann ist die Abweichung negativ. Willibald will pünktlichst liefern, denn auch zu frühe Lieferungen führen beim Kunden zu Problemen (Pflege von Setzlingen).
 
