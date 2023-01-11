@@ -1,4 +1,4 @@
-Bestellung_Webshop
+Bestellung
 ---
 BestellungID bigint PK
 KundeID char(13)  FK 
@@ -8,9 +8,9 @@ Wunschdatum date
 Rabatt numeric(5,2)
 
 
-Position_Webshop
+Position
 ---
-BestellungID bigint PK FK >- Bestellung_Webshop.BestellungID
+BestellungID bigint PK FK >- Bestellung.BestellungID
 PosID bigint PK
 ProduktID int FK 
 SpezLieferAdrID int NULL 
@@ -18,7 +18,7 @@ Menge int
 Preis numeric(10,2)
 
 
-Bestellung_Roadshow
+RS_Bestellung
 ---
 BestellungID varchar(128) PK
 KundeID char(13) NULL FK 

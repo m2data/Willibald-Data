@@ -27,6 +27,7 @@ Periode 2: 350 Sätze
 Periode 3:  410 Sätze
 
 von 1 auf 2: 50 Inserts, 14 Updates, 1 Delete
+
 von 2 auf 3: 61 Inserts, 41 Updates (KundeID 70 wird reanimiert)
 
 ## Wohnort
@@ -37,19 +38,22 @@ Periode 2:  795 Sätze
 Periode 3: 965 Sätze
 
 von 1 auf 2: 103 Inserts, 4 Updates, 8 Deletes
+
 von 2 auf 3: 232 Inserts, 10 Updates, 62 Deletes
 
 Löschung von 1 auf 2 (keine Aktualisierung des von Datums) mit jeweils KundeID und von-Datum
-3	24.07.1990
-15	02.07.1990
-15	25.06.1991
-29	28.03.2019
-300	29.07.1986
-300	07.07.1987
+
+- 3	24.07.1990
+- 15	02.07.1990
+- 15	25.06.1991
+- 29	28.03.2019
+- 300	29.07.1986
+- 300	07.07.1987
 
 Löschungen von 2 auf 3 (keine Aktualisierung des von Datums)
-24	30.07.2016
-24	28.10.2018
+
+- 24	30.07.2016
+- 24	28.10.2018
 
 
 ## Lieferadresse
@@ -60,6 +64,7 @@ Periode 2: 905 Sätze
 Periode 3: 1025 Sätze
 
 von 1 auf 2: 105 Inserts
+
 von 2 auf 3: 120 Inserts. 88 Updates
 
 6 Sätze ohne ein Äquivalent im Kunden (KundeID 997, 998, 999)
@@ -72,6 +77,7 @@ Periode 2: 7 Sätze
 Periode 3: 7 Sätze
 
 von 1 auf 2: 1 Insert
+
 von 2 auf 3: 1, Insert, 1 Update, 1 Delete (Umbenennung des Vereinspartners Ruhrmorig in Morgenstern)
 
 ## Kategorie
@@ -82,6 +88,7 @@ Periode 2: 64 Sätze
 Periode 3: 64 Sätze
 
 von 1 auf 2: 64 Inserts, 64 Deletes
+
 von 2 auf 3: 64 Inserts, 64 Deletes
 
 ## Produkt
@@ -92,6 +99,7 @@ Periode 2: 126 Sätze
 Periode 3: 126 Sätze
 
 von 1 auf 2: 126 Updates
+
 von 2 auf 3: 126 Updates
 
 ## Bestellung
@@ -102,6 +110,7 @@ Periode 2: 1537 Sätze
 Periode 3: 2062 Sätze
 
 von 1 auf 2: 737 Inserts
+
 von 2 auf 3: 525 Inserts
 
 Löschungen:
@@ -120,6 +129,7 @@ Periode 2: 3843 Sätze
 Periode 3: 4368 Sätze
 
 von 1 auf 2: 1843 Inserts
+
 von 2 auf 3: 525 Inserts
 
 - [ ] Löschen von Positionen
@@ -133,6 +143,7 @@ Periode 2: 180 Sätze
 Periode 3: 80 Sätze
 
 von 1 auf 2: 27 Updates, 2 Inserts, 2 Delete
+
 von 2 auf 3: keine Veränderungen
 
 ## LieferDienst
@@ -143,6 +154,7 @@ Periode 2:  3843 Sätze
 Periode 3:  4368 Sätze
 
 von 1 auf 2: 1843 Inserts
+
 von 2 auf 3: 525 Inserts
 
 

@@ -35,7 +35,7 @@ Pflanzort varchar(128)
 Pflanzabstand varchar(128)
 
 
-Bestellung
+RS_Bestellung
 ---
 BestellungID varchar(128) PK
 KundeID char(13) NULL FK >- Kunde.KundeID
