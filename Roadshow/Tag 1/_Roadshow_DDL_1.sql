@@ -13,9 +13,6 @@ CREATE TABLE [RS_Bestellung] (
     [ProduktID] int  NOT NULL ,
     [Menge] int  NOT NULL ,
     [Preis] numeric(10,2)  NOT NULL ,
-    [Rabatt] numeric(5,2)  NULL,
-	CONSTRAINT [PK_RS_Bestellung] PRIMARY KEY CLUSTERED (
-        [BestellungID] ASC,[ProduktID] ASC
-    )
+    [Rabatt] numeric(5,2)  NULL
 )
 
