@@ -37,5 +37,6 @@ Association_partner_order->orderitem
 Category_Product->orderitem
 Report_date->orderitem
 Sales_date->orderitem
+on_time_delivery->orderitem
 
 }

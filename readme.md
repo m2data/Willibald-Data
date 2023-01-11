@@ -14,7 +14,7 @@ Das Datenmodell des Shops sieht wie folgt aus (Die Fragezeichen hinter den Attri
 
 ![Shopdatenmodell Willibald](Datenmodell/webshop-willibald.png)
 
-Die VereinsPartner sind das Rückgrat für Willibalds Marketing. Seit der Gründung im Jahre 1926 hat der Samen und Pflanzenhandel Willibald besondere Konditionen und Vergünstigungen für Kleingarten- und Gartenbauvereine. Für jeden Verein gibt es einen Ansprechpartner unter den Kunden Jeder Kunde kann sich für seinen Verein registrieren lassen und so die Vereinsvergünstigungen erhalten. Der Seniorchef ist überzeugt, dass dieses Konzept die Firma Willibald durch alle Krisen gebracht hat.
+Die VereinsPartner sind das Rückgrat für Willibalds Marketing. Seit der Gründung im Jahre 1926 hat der Samen und Pflanzenhandel Willibald besondere Konditionen und Vergünstigungen für Kleingarten- und Gartenbauvereine. Für jeden Verein gibt es einen Ansprechpartner unter den Kunden Jeder Kunde kann sich für seinen Verein registrieren lassen und so die Vereinsvergünstigungen erhalten. Der Seniorchef von Willibald ist überzeugt, dass dieses Konzept die Firma Willibald durch alle Krisen gebracht hat.
 
 Zweimal im Jahr begibt sich der Samen und Pflanzenhandel Willibald auf eine Roadshow. Bei dieser Roadshow werden die Kleingarten- und Gartenbauvereine mit einem Truck voller Samen und Pflanzen besucht. Er wird eine kleine Festivität organisiert und fleißig verkauft. 2% des Umsatzes aus diesem Truck werden direkt dem Verein gespendet. Für Willibald eine sehr gute Gelegenheit die Saisonware noch vor dem Verfall an den Kunden zu bringen. Seit Beginn der Roadshow musste keine Saisonware mehr kompostiert werden. 
 
@@ -28,7 +28,7 @@ Das Datenmodell des Kassensystems (nur Bestellung wird geliefert, Produkt, Kunde
 
 Geliefert werden die Daten in einer Tabelle in der Struktur, wie sie hier auch die Tabelle Bestellung hat. Dabei sind die Attribute BestellungID, KundeID, VereinsPartnerID, Kreditkarte, GueltigBis und KKFirma redundant vorgehalten und dienen als Header Informationen für den Rest der Attribute (bzw. eigentlich die Items). Die Header-Attribute sind dabei immer für alle Items gleich. Hier stimmt bisher die Datenqualität.
 
-Die BestellungID wird einfach hochgezählt, d.h. es kann zu Übereinstimmungen mit dem Webshop kommen, es handelt sich dabei aber immer um 2 unterschiedliche Bestellungen. Der Rabatt ist bei der Roadshow übrigens nicht auf der Ebene Bestellung, sondern auf Ebene der Bestellposition. Für die Roadshow werden flexiblere Rabatte benötigt, um auch wirklich alle Saisonware an den Kunden zu bringen.
+Der Rabatt ist bei der Roadshow übrigens nicht auf der Ebene Bestellung, sondern auf Ebene der Bestellposition. Für die Roadshow werden flexiblere Rabatte benötigt, um auch wirklich alle Saisonware an den Kunden zu bringen.
 
 
 
@@ -44,7 +44,7 @@ Der gewünschte Report für Willibald umfasst folgende Kennzahlen auf Granularit
   Eine 1 als kurze Kennzeichnung, ob dieser Auftrag noch offen ist.
 - Vollständig gelieferter Auftrag
   Eine 1 als kurze Kennzeichnung, ob dieser Auftrag bereits vollständig geliefert ist.
-- Abweichung zwischen Wunsch und Lieferdatum in Tagen
+- Abweichung zwischen Wunsch- und Lieferdatum in Tagen
   Wenn jede Position geliefert wurde, errechnet sich die Abweichung aus dem Bestellung.Wunschdatum und dem letzten Lieferung.LieferDatum. Wenn die Lieferung vor dem Wunschtermin erfolgt ist, dann ist die Abweichung negativ. Willibald will pünktlichst liefern, denn auch zu frühe Lieferungen führen beim Kunden zu Problemen (Pflege von Setzlingen).
 
 Diese Faktentabelle hat dann folgende Dimensionen:

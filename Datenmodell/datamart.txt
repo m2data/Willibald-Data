@@ -37,5 +37,5 @@ VereinsPartner_Bestellung->Bestellposition
 Kategorie_Produkt->Bestellposition
 Berichtszeitpunkt->Bestellposition
 Verkaufsdatum->Bestellposition
-
+Termintreue->Bestellposition
 }

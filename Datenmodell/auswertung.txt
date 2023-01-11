@@ -8,39 +8,38 @@ digraph G {
   bgcolor=transparent;
   rankdir=TD
 
-orderitem [shape=box label=<
+Bestellposition [shape=box label=<
         <TABLE>
          <TR>
-          <TD BGCOLOR="bisque">Facts granularity order item</TD>.
+          <TD BGCOLOR="bisque">Fakten Granularität Bestellposition</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Quantity</TD>
+          <TD BGCOLOR="white">Menge</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Revenue</TD>
+          <TD BGCOLOR="white">Erlös</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Open order</TD>
+          <TD BGCOLOR="white">Offener Auftrag</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Fully delivered order</TD>
+          <TD BGCOLOR="white">Vollständig gelieferter Auftrag</TD>
          </TR>
          <TR>
-          <TD BGCOLOR="white">Difference between requested date and delivery date in days</TD>
+          <TD BGCOLOR="white">Abweichung zwischen Wunsch und Lieferdatum in Tagen</TD>
          </TR>
         </TABLE>
     >
 ]
 
-AssociationPartner->Customer
-Customer->Order
-AssociationPartner->Order
-Customer->Delivery_address
-Delivery_address->Order
-Delivery_address->orderitem
-Order->orderitem
-Category->Product
-Product->orderitem
-Report_date->orderitem
-Sales_date->orderitem
+VereinsPartner->Kunde
+Kunde->Bestellung
+VereinsPartner->Bestellung
+Kunde->Lieferadresse
+Lieferadresse->Bestellung
+Lieferadresse->Bestellposition
+Bestellung->Bestellposition
+Kategorie->Produkt
+Produkt->Bestellposition
+Termintreue->Bestellposition
 }
