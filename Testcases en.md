@@ -191,7 +191,7 @@ Then the value must change with the start of period 2:
 | number of days from | number of days to | designation | evaluation |
 | :-------------: | :-------------: | -------------------------- | ---------------- |
 | -1000000 | -10 | more than 10 days too early | much too early |
-| -10 | -4 | up to 10 days too early | too early |
+| -10 | -4 | up to 10 days too early | significantly early |
 | -4 | -1 | up to 3 days too early | too early |
 | -1 | 1 | on time | on time |
 | 1 | 4 | up to 3 days late | too late |

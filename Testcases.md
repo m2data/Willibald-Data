@@ -173,7 +173,7 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 
 1. Die Bestellungen der Vereinspartner vereinheitlichen
    Die Bestellungen der Roadshow sind direkt mit dem Vereinspartner verbunden. Dies muss nun noch für die Bestellungen des Vereinspartners aus dem Webshop erfolgen. Hierzu werden anhand der VereinsPartner.KundeIDVerein alle Bestellungen zu diesem Kunden direkt mit dem VereinsPartner verknüpft.
-2. Roadshow Bestellungen zu den Kunden zurodnen 
+2. Roadshow Bestellungen zu den Kunden zuordnen 
    Anhand der Kreditkarte, der KKFirma und dem GueltigBis werden die Beziehungen von Bestellung zum Kunden ergänzt
 
 
@@ -198,7 +198,7 @@ Dann muss sich der Wert mit Beginn von Periode 2 ändern:
 | Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung        |
 | :-------------: | :-------------: | -------------------------- | ---------------- |
 |    -1000000     |       -10       | mehr als 10 Tage zu früh   | viel zu früh     |
-|       -10       |       -4        | bis zu 10 Tagen zu früh    | zu früh          |
+|       -10       |       -4        | bis zu 10 Tagen zu früh    | deutlich zu früh |
 |       -4        |       -1        | bis zu 3 Tagen zu früh     | zu früh          |
 |       -1        |        1        | pünktlich                  | pünktlich        |
 |        1        |        4        | bis zu 3 Tagen zu spät     | zu spät          |
