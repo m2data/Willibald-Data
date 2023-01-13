@@ -5,7 +5,7 @@
 ## Hints
 
 1. Please use the schema without constraints for the load
-   There is always a  schema file with &#95;[webshop|roadshow]&#95;DDL&#95;[day#].sql' that can be used for that.
+   There is always a  schema file with "&#95;[webshop|roadshow]&#95;DDL&#95;[day#].sql" that can be used for that.
 
 
 
