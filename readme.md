@@ -2,6 +2,8 @@
 
 In diesem Projekt liegen die Daten und das Datenmodell für die fiktive Firma 'Samen und Pflanzenhandel Willibald'.
 
+![Logo der Firma Willibald](C:\Users\der-m\OneDrive - m2data.de\Dokumente\GitHub\Willibald-Data\Grafik\logo 2.jpg)
+
 ## Die Ausgangsdaten
 
 Die Firma Willibald ist ein Traditionshaus und handelt mit Samen und Pflanzen über das Internet. Früher wurde ausschliesslich über einen Katalog verkauft. Der Katalog wurde 2000, ganze 4 Jahre nach der Eröffnung des Webshops schnell beendet. Willibald war der erste Pflanzenbedarfsladen im Internet und ist da heute noch stolz darauf.

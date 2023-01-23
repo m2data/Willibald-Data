@@ -2,6 +2,8 @@
 
 In this project the data and the data model for the fictitious company 'Samen und Pflanzenhandel Willibald' are located.
 
+![Logo of the company Willibald](C:\Users\der-m\OneDrive - m2data.de\Dokumente\GitHub\Willibald-Data\Grafik\logo 2.jpg)
+
 ## The initial data
 
 The company Willibald is a traditional house and trades with seeds and plants via the internet. In the past, the company sold exclusively via a catalogue. The catalogue was quickly terminated in 2000, a full 4 years after the webshop was opened. Willibald was the first plant supply shop on the internet and is still proud of it today.
