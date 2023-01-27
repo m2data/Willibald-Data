@@ -1,8 +1,6 @@
 # Das Datenmodell und die Daten für den Samen und Pflanzenhandel Willibald
 
-In diesem Projekt liegen die Daten und das Datenmodell für die fiktive Firma 'Samen und Pflanzenhandel Willibald'.
-
-![Logo der Firma Willibald](C:\Users\der-m\OneDrive - m2data.de\Dokumente\GitHub\Willibald-Data\Grafik\logo 2.jpg)
+![Logo der Firma Willibald](Grafik\logo 2.jpg)In diesem Projekt liegen die Daten und das Datenmodell für die fiktive Firma 'Samen und Pflanzenhandel Willibald'.
 
 ## Die Ausgangsdaten
 

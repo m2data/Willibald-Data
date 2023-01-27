@@ -1,8 +1,6 @@
 # The data model and data for the seed and plant trade Willibald
 
-In this project the data and the data model for the fictitious company 'Samen und Pflanzenhandel Willibald' are located.
-
-![Logo of the company Willibald](C:\Users\der-m\OneDrive - m2data.de\Dokumente\GitHub\Willibald-Data\Grafik\logo 2.jpg)
+![Logo of the company Willibald](Grafik\logo 2.jpg)In this project the data and the data model for the fictitious company 'Samen und Pflanzenhandel Willibald' are located.
 
 ## The initial data
 
