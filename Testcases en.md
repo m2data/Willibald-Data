@@ -171,7 +171,7 @@ The creation of the fact table with the key figures:
 
 
 
-### Historicised reference table for the dimension adherence to on-time delivery
+### Historized reference table for the dimension adherence to on-time delivery
 
 A historicised reference table is still necessary for the data mart. It is started with the following values:
 
@@ -184,7 +184,8 @@ A historicised reference table is still necessary for the data mart. It is start
 | 4 | 10 | 4 to 10 days late | significantly late |
 | 10 | 1000000 | more than 10 days late | much too late |
 | xxx | xxx | order active too long | error |
-| zzz | zzz | sale, no delivery | irrelevant |
+| zzz | zzz | direct sale, no delivery | irrelevant |
+| yyy | yyy | not yet delivered | not yet |
 
 Then the value must change with the start of period 2:
 
@@ -198,7 +199,8 @@ Then the value must change with the start of period 2:
 | 4 | 10 | up to 10 days late | significantly late |
 | 10 | 1000000 | more than 10 days late | much too late |
 | xxx | xxx | order active too long | error |
-| zzz | zzz | sale, no delivery | irrelevant |
+| zzz | zzz | direct sale, no delivery | irrelevant |
+| yyy | yyy | not yet delivered | not yet |
 
 
 

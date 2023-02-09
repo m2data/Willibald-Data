@@ -182,30 +182,32 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 
 Für den Data Mart wird noch eine historisierte Referenzabelle nötig. Gestartet wird mit folgenden Werten:
 
-| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung        |
-| :-------------: | :-------------: | -------------------------- | ---------------- |
-|    -1000000     |       -5        | mehr als 5 Tage früher     | viel zu früh     |
-|       -5        |        0        | bis zu 5 Tagen zu früh     | zu früh          |
-|        0        |        1        | pünktlich                  | pünktlich        |
-|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät          |
-|        4        |       10        | 4 bis 10 Tage zu spät      | deutlich zu spät |
-|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät     |
-|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler           |
-|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant       |
+| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung           |
+| :-------------: | :-------------: | -------------------------- | ------------------- |
+|    -1000000     |       -5        | mehr als 5 Tage früher     | viel zu früh        |
+|       -5        |        0        | bis zu 5 Tagen zu früh     | zu früh             |
+|        0        |        1        | pünktlich                  | pünktlich           |
+|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät             |
+|        4        |       10        | 4 bis 10 Tage zu spät      | deutlich zu spät    |
+|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät        |
+|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler              |
+|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant          |
+|       yyy       |       yyy       | noch nicht geliefert       | noch nicht relevant |
 
 Dann muss sich der Wert mit Beginn von Periode 2 ändern:
 
-| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung        |
-| :-------------: | :-------------: | -------------------------- | ---------------- |
-|    -1000000     |       -10       | mehr als 10 Tage zu früh   | viel zu früh     |
-|       -10       |       -4        | bis zu 10 Tagen zu früh    | deutlich zu früh |
-|       -4        |       -1        | bis zu 3 Tagen zu früh     | zu früh          |
-|       -1        |        1        | pünktlich                  | pünktlich        |
-|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät          |
-|        4        |       10        | bis zu 10 Tage zu spät     | deutlich zu spät |
-|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät     |
-|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler           |
-|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant       |
+| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung           |
+| :-------------: | :-------------: | -------------------------- | ------------------- |
+|    -1000000     |       -10       | mehr als 10 Tage zu früh   | viel zu früh        |
+|       -10       |       -4        | bis zu 10 Tagen zu früh    | deutlich zu früh    |
+|       -4        |       -1        | bis zu 3 Tagen zu früh     | zu früh             |
+|       -1        |        1        | pünktlich                  | pünktlich           |
+|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät             |
+|        4        |       10        | bis zu 10 Tage zu spät     | deutlich zu spät    |
+|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät        |
+|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler              |
+|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant          |
+|       yyy       |       yyy       | noch nicht geliefert       | noch nicht relevant |
 
 
 
