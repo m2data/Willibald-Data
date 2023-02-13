@@ -174,7 +174,7 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 1. Die Bestellungen der Vereinspartner vereinheitlichen
    Die Bestellungen der Roadshow sind direkt mit dem Vereinspartner verbunden. Dies muss nun noch für die Bestellungen des Vereinspartners aus dem Webshop erfolgen. Hierzu werden anhand der VereinsPartner.KundeIDVerein alle Bestellungen zu diesem Kunden direkt mit dem VereinsPartner verknüpft.
 2. Roadshow Bestellungen zu den Kunden zuordnen 
-   Anhand der Kreditkarte, der KKFirma und dem GueltigBis werden die Beziehungen von Bestellung zum Kunden ergänzt. Leider sind nicht alle Kreditkarten eindeutig für genau einen Kunden. Es scheint eine gewisse Teil-Freudigkeit unter den Kunden von Willibald zu geben. Daher kann diese Regel nur mit Kreditkarten angewendet werden, bei denen eindeutig nur ein Kunde die Karte verwendet.
+   Anhand der Kreditkarte und dem GueltigBis werden die Beziehungen von Bestellung zum Kunden ergänzt.
 
 
 
