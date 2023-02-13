@@ -167,7 +167,7 @@ The creation of the fact table with the key figures:
 1. standardise the orders of the association partners
    The orders of the roadshow are directly linked to the association partner. This must now be done for the orders of the association partner from the webshop. To do this, all orders for this customer are linked directly to the club partner using the club partner.customerIDclub.
 2. assign roadshow orders to the customers 
-   Using the credit card, the KKFirma and the GueltigBis, the relationships of the order to the customer are added.
+   Using the credit card, the KKFirma and the GueltigBis, the relationships of the order to the customer are added. Unfortunately there is a habit of sharing credit cards between Willibald's customers. Only credit cards with just one customer attached can be used.
 
 
 
