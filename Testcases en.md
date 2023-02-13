@@ -167,11 +167,11 @@ The creation of the fact table with the key figures:
 1. standardise the orders of the association partners
    The orders of the roadshow are directly linked to the association partner. This must now be done for the orders of the association partner from the webshop. To do this, all orders for this customer are linked directly to the club partner using the club partner.customerIDclub.
 2. assign roadshow orders to the customers 
-   Using the credit card, the KKFirma and the GueltigBis, the relationships of the order to the customer are added.
+   Using the credit card, the KKFirma and the GueltigBis, the relationships of the order to the customer are added. Unfortunately there is a habit of sharing credit cards between Willibald's customers. Only credit cards with just one customer attached can be used.
 
 
 
-### Historicised reference table for the dimension adherence to on-time delivery
+### Historized reference table for the dimension adherence to on-time delivery
 
 A historicised reference table is still necessary for the data mart. It is started with the following values:
 
@@ -184,7 +184,8 @@ A historicised reference table is still necessary for the data mart. It is start
 | 4 | 10 | 4 to 10 days late | significantly late |
 | 10 | 1000000 | more than 10 days late | much too late |
 | xxx | xxx | order active too long | error |
-| zzz | zzz | sale, no delivery | irrelevant |
+| zzz | zzz | direct sale, no delivery | irrelevant |
+| yyy | yyy | not yet delivered | not yet |
 
 Then the value must change with the start of period 2:
 
@@ -198,7 +199,8 @@ Then the value must change with the start of period 2:
 | 4 | 10 | up to 10 days late | significantly late |
 | 10 | 1000000 | more than 10 days late | much too late |
 | xxx | xxx | order active too long | error |
-| zzz | zzz | sale, no delivery | irrelevant |
+| zzz | zzz | direct sale, no delivery | irrelevant |
+| yyy | yyy | not yet delivered | not yet |
 
 
 

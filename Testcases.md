@@ -174,7 +174,7 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 1. Die Bestellungen der Vereinspartner vereinheitlichen
    Die Bestellungen der Roadshow sind direkt mit dem Vereinspartner verbunden. Dies muss nun noch für die Bestellungen des Vereinspartners aus dem Webshop erfolgen. Hierzu werden anhand der VereinsPartner.KundeIDVerein alle Bestellungen zu diesem Kunden direkt mit dem VereinsPartner verknüpft.
 2. Roadshow Bestellungen zu den Kunden zuordnen 
-   Anhand der Kreditkarte, der KKFirma und dem GueltigBis werden die Beziehungen von Bestellung zum Kunden ergänzt
+   Anhand der Kreditkarte, der KKFirma und dem GueltigBis werden die Beziehungen von Bestellung zum Kunden ergänzt. Leider sind nicht alle Kreditkarten eindeutig für genau einen Kunden. Es scheint eine gewisse Teil-Freudigkeit unter den Kunden von Willibald zu geben. Daher kann diese Regel nur mit Kreditkarten angewendet werden, bei denen eindeutig nur ein Kunde die Karte verwendet.
 
 
 
@@ -182,30 +182,32 @@ Die Erstellung der Faktentabelle mit den Kennzahlen:
 
 Für den Data Mart wird noch eine historisierte Referenzabelle nötig. Gestartet wird mit folgenden Werten:
 
-| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung        |
-| :-------------: | :-------------: | -------------------------- | ---------------- |
-|    -1000000     |       -5        | mehr als 5 Tage früher     | viel zu früh     |
-|       -5        |        0        | bis zu 5 Tagen zu früh     | zu früh          |
-|        0        |        1        | pünktlich                  | pünktlich        |
-|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät          |
-|        4        |       10        | 4 bis 10 Tage zu spät      | deutlich zu spät |
-|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät     |
-|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler           |
-|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant       |
+| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung           |
+| :-------------: | :-------------: | -------------------------- | ------------------- |
+|    -1000000     |       -5        | mehr als 5 Tage früher     | viel zu früh        |
+|       -5        |        0        | bis zu 5 Tagen zu früh     | zu früh             |
+|        0        |        1        | pünktlich                  | pünktlich           |
+|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät             |
+|        4        |       10        | 4 bis 10 Tage zu spät      | deutlich zu spät    |
+|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät        |
+|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler              |
+|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant          |
+|       yyy       |       yyy       | noch nicht geliefert       | noch nicht relevant |
 
 Dann muss sich der Wert mit Beginn von Periode 2 ändern:
 
-| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung        |
-| :-------------: | :-------------: | -------------------------- | ---------------- |
-|    -1000000     |       -10       | mehr als 10 Tage zu früh   | viel zu früh     |
-|       -10       |       -4        | bis zu 10 Tagen zu früh    | deutlich zu früh |
-|       -4        |       -1        | bis zu 3 Tagen zu früh     | zu früh          |
-|       -1        |        1        | pünktlich                  | pünktlich        |
-|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät          |
-|        4        |       10        | bis zu 10 Tage zu spät     | deutlich zu spät |
-|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät     |
-|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler           |
-|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant       |
+| Anzahl Tage von | Anzahl Tage bis | Bezeichnung                | Bewertung           |
+| :-------------: | :-------------: | -------------------------- | ------------------- |
+|    -1000000     |       -10       | mehr als 10 Tage zu früh   | viel zu früh        |
+|       -10       |       -4        | bis zu 10 Tagen zu früh    | deutlich zu früh    |
+|       -4        |       -1        | bis zu 3 Tagen zu früh     | zu früh             |
+|       -1        |        1        | pünktlich                  | pünktlich           |
+|        1        |        4        | bis zu 3 Tagen zu spät     | zu spät             |
+|        4        |       10        | bis zu 10 Tage zu spät     | deutlich zu spät    |
+|       10        |     1000000     | mehr als 10 Tage spät      | viel zu spät        |
+|       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler              |
+|       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant          |
+|       yyy       |       yyy       | noch nicht geliefert       | noch nicht relevant |
 
 
 
