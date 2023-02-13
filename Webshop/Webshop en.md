@@ -26,9 +26,9 @@ Period 2: 350 records
 
 Period 3: 410 records
 
-from 1 to 2: 50 inserts, 14 updates, 1 delete
+from 1 to 2: 50 inserts, 15 updates, 1 delete
 
-from 2 to 3: 61 inserts, 41 updates (customer ID 70 reappears)
+from 2 to 3: 61 inserts, 40 updates (customer ID 70 reappears)
 
 ## Residence
 Period 1: 700 records
@@ -57,15 +57,15 @@ Deletions from 2 to 3 (no update of date)
 
 
 ## Delivery address
-Period 1: 800 records
+Period 1: 806 records
 
 Period 2: 905 records
 
 Period 3: 1025 sets
 
-from 1 to 2: 105 inserts
+from 1 to 2: 115 inserts, 16 deletes
 
-from 2 to 3: 120 inserts. 88 updates
+from 2 to 3: 120 inserts. 89 updates
 
 6 records without an equivalent in the customer (customer ID 997, 998, 999)
 
@@ -78,7 +78,7 @@ Period 3: 7 records
 
 from 1 to 2: 1 insert
 
-from 2 to 3: 1, Insert, 1 Update, 1 Delete (renaming of the club partner Ruhrmorig to Morgenstern)
+from 2 to 3: 1 Insert, 1 Update, 1 Delete (renaming of the club partner Ruhrmorig to Morgenstern)
 
 ## Category
 Period 1: 64 sets
@@ -138,7 +138,7 @@ from 2 to 3: 525 inserts
 ## Delivery
 Period 1: 80 records
 
-Period 2: 180 records
+Period 2: 80 records
 
 Period 3: 80 records
 

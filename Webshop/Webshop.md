@@ -26,9 +26,9 @@ Periode 2: 350 Sätze
 
 Periode 3:  410 Sätze
 
-von 1 auf 2: 50 Inserts, 14 Updates, 1 Delete
+von 1 auf 2: 50 Inserts, 15 Updates, 1 Delete
 
-von 2 auf 3: 61 Inserts, 41 Updates (KundeID 70 wird reanimiert)
+von 2 auf 3: 61 Inserts, 40 Updates (KundeID 70 wird reanimiert)
 
 ## Wohnort
 Periode 1:  700 Sätze
@@ -57,15 +57,15 @@ Löschungen von 2 auf 3 (keine Aktualisierung des von Datums)
 
 
 ## Lieferadresse
-Periode 1:  800 Sätze
+Periode 1:  806 Sätze
 
 Periode 2: 905 Sätze
 
 Periode 3: 1025 Sätze
 
-von 1 auf 2: 105 Inserts
+von 1 auf 2: 115 Inserts, 16 Deletes
 
-von 2 auf 3: 120 Inserts. 88 Updates
+von 2 auf 3: 120 Inserts. 89 Updates
 
 6 Sätze ohne ein Äquivalent im Kunden (KundeID 997, 998, 999)
 
@@ -76,9 +76,9 @@ Periode 2: 7 Sätze
 
 Periode 3: 7 Sätze
 
-von 1 auf 2: 1 Insert
+von 1 auf 2: 1 Insert, 1 Update
 
-von 2 auf 3: 1, Insert, 1 Update, 1 Delete (Umbenennung des Vereinspartners Ruhrmorig in Morgenstern)
+von 2 auf 3: 1 Insert, 1 Update, 1 Delete (Umbenennung des Vereinspartners Ruhrmorig in Morgenstern)
 
 ## Kategorie
 Periode 1:  64 Sätze
@@ -135,10 +135,10 @@ von 2 auf 3: 525 Inserts
 - [ ] Löschen von Positionen
 - [ ] Änderungen in LieferAdresse
 
-## Lieferung
+## LieferDienst
 Periode 1:  80 Sätze
 
-Periode 2: 180 Sätze
+Periode 2: 80 Sätze
 
 Periode 3: 80 Sätze
 
@@ -146,7 +146,7 @@ von 1 auf 2: 27 Updates, 2 Inserts, 2 Delete
 
 von 2 auf 3: keine Veränderungen
 
-## LieferDienst
+## Lieferung
 Periode 1:  2000 Sätze
 
 Periode 2:  3843 Sätze
