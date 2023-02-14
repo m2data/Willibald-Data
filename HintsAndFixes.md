@@ -50,6 +50,21 @@
   Deleted duplicate row with KundeID 350 in 'Testdaten Periode 2/Kunde.csv'
   Minor error in the testcase description fixed
 
+- 13.2.23
+  Changed the Bestelldatum 
+
+  - on webshop delivery 1 to 5.-11.3.2022
+  - on webshop delivery 2 to 12.-18.3.2022
+  - on webshop delivery 2 to 19.-25.3.2022
+
+  The Kaufdatum on the roadshow is
+
+  - 5.3.2022 for Day 1
+  - 13.3.2022 for Day 2
+  - 19.3.2022 for Day 3
+
+  The credit card number was wrong in some cases. This is now fixed and they match between Customer and RS_Bestellung. However, please use only credit card and GueltigBis. The credit card company has some data quality issues...
+
   
 
   
