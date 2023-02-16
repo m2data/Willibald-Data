@@ -1,89 +1,89 @@
-KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Email;Kreditkarte;GueltigBis;KKFirma
+ï»¿KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Email;Kreditkarte;GueltigBis;KKFirma
 1;;Emmaliese;Medina;w;18.10.1995;06753/65916995;0159/6448938;e_95@company.none;0000 7466 6923 0000;03/13;VISA
 2;;Steffen;Katz;;25.10.2009;;0164/3633985;steffen_katz@bestmail.none;0000 0968 0523 2800;01/15;VISA
-3;GlückAuf;Karlo;Wieland;;13.09.1938;02692/83118037;0165/7430575;k-wieland@private.none;0000 2574 3517 4000;08/90;Mastercard
+3;GlÃ¼ckAuf;Karlo;Wieland;;13.09.1938;02692/83118037;0165/7430575;k-wieland@private.none;0000 2574 3517 4000;08/90;Mastercard
 4;;Siegfried;Wolk;m;17.05.2020;04441/45086066;0167/6560685;siegfriedwolk@funmail.none;0000 3966 0700 2400;09/18;Mastercard
 5;Ruhrmorig;Pankratius;Eichberger;m;01.12.1973;;0167/3312963;pankratius.eichberger@open-mail.none;0000 2350 9612 0600;11/16;American Express
 6;;Leoni;Peuker;w;05.11.1976;06542/8898003;0158/7935398;leoni_peuker@justmail.none;0000 7985 0501 0000;12/05;American Express
 7;Blaetterglueck;Bettina;Pilgrim;w;25.01.1967;04533/19946621;0163/9688384;bettina-pilgrim@anymail.none;0000 0225 6916 3300;06/13;Mastercard
-8;WochenendGLück;Karin;Hübler;w;17.04.1970;0671/21250949;0177/3624772;karin-1970@xyz.none;0000 6429 2400 2400;09/12;Mastercard
+8;WochenendGLÃ¼ck;Karin;HÃ¼bler;w;17.04.1970;0671/21250949;0177/3624772;karin-1970@xyz.none;0000 6429 2400 2400;09/12;Mastercard
 9;;Amy;Taubert;;24.05.1952;06323/75542091;0173/3230382;a1952@mymail.none;0000 8483 0500 0000;07/02;Mastercard
-10;Druff1848;Elgine;Röhrle;w;22.03.1912;;;elgineroehrle@quickmail.none;0000 8487 0962 1400;08/17;Mastercard
+10;Druff1848;Elgine;RÃ¶hrle;w;22.03.1912;;;elgineroehrle@quickmail.none;0000 8487 0962 1400;08/17;Mastercard
 11;;Hildburga;Marin;w;14.02.1946;;0152/3695675;hildburga_marin@quickmail.none;0000 4768 0642 2200;04/21;VISA
 12;;Elgine;Tams;w;14.09.1981;06674/61178929;0174/9706169;elgine-tams@anymail.none;0000 3182 0640 3800;01/10;VISA
 13;VolleRose;Lana;Soika;w;11.11.1915;;;lana_soika@bestmail.none;0000 5310 0900 0000;01/01;VISA
 14;;Fred;Metzdorf;;17.07.1919;0203/33519563;;fred19@kitty.none;0000 9574 3500 0000;05/73;VISA
 15;;Sanna;Nimz;w;07.08.1929;08063/80783528;;sanna-nimz@funmail.none;0000 7228 2915 5100;05/17;VISA
-16;GlückAuf;Alinde;Rühling;w;10.03.1975;05905/19958701;0150/3217238;a-ruehling@bestmail.none;0000 1551 1519 1900;07/01;Mastercard
+16;GlÃ¼ckAuf;Alinde;RÃ¼hling;w;10.03.1975;05905/19958701;0150/3217238;a-ruehling@bestmail.none;0000 1551 1519 1900;07/01;Mastercard
 17;;Carin;Jan;w;14.07.1979;06571/56142222;0164/8364496;c_jan@bestmail.none;0000 2766 4327 0000;06/93;Mastercard
-18;Ruhrmorig;Annetrude;Lühr;w;26.07.1921;07844/17363580;0154/1485056;aluehr@retromail.none;0000 7772 1697 6400;02/19;VISA
+18;Ruhrmorig;Annetrude;LÃ¼hr;w;26.07.1921;07844/17363580;0154/1485056;aluehr@retromail.none;0000 7772 1697 6400;02/19;VISA
 19;Blaetterglueck;Fridulf;Domes;m;17.02.1996;03923/49177555;;fridulfdomes@goggle-mail.none;0000 1268 0523 2800;02/18;VISA
 20;;Valerie;Rolf;w;12.08.1990;07345/60576343;;valerie-rolf@kitty.none;0000 4820 7300 0700;10/97;Mastercard
-21;WochenendGLück;Gerheide;Haarmann;w;09.04.1942;09971/83377112;0165/2897996;gerheide_42@live-mail.none;0000 5054 2900 0000;12/87;American Express
+21;WochenendGLÃ¼ck;Gerheide;Haarmann;w;09.04.1942;09971/83377112;0165/2897996;gerheide_42@live-mail.none;0000 5054 2900 0000;12/87;American Express
 22;;Christhild;Scherrer;w;27.06.1966;02602/26168121;0169/8014927;christhild.scherrer@bestmail.none;0000 7337 0400 4400;01/19;VISA
 23;Druff1848;Arnbert;Tietje;m;19.09.1988;0591/59644531;0159/3358890;arnbert-1988@web.none;0000 3428 0699 9400;11/09;American Express
 24;;Ben;Trojan;m;29.03.1981;09134/26557007;0150/6679640;ben_trojan@goggle-mail.none;0000 1072 2515 2000;01/89;VISA
 25;VolleRose;Rochus;Pfister;;19.12.1969;09965/44889098;0169/2055638;rochus.pfister@xyz.none;0000 5476 0694 6800;03/21;VISA
-26;;Melisande;Lohmüller;w;26.12.2010;06564/32915070;0161/3056964;melisande-lohmueller@hoster.none;0000 4231 0108 3300;01/93;VISA
+26;;Melisande;LohmÃ¼ller;w;26.12.2010;06564/32915070;0161/3056964;melisande-lohmueller@hoster.none;0000 4231 0108 3300;01/93;VISA
 27;;Rosegunde;Wolter;w;03.03.1983;06431/91531796;0157/7637035;rosegundewolter@open-mail.none;0000 1760 0501 0100;03/15;VISA
 28;Ruhrmorig;Carola;Ostermeier;w;07.10.1905;06551/50428822;0171/3461070;c-ostermeier@justmail.none;0000 7968 4522 9000;07/93;Mastercard
-29;GlückAuf;Ambrosius;Mertins;;09.01.1978;04822/66724939;0172/2642168;a.mertins@ultramail.none;0000 8750 8623 1100;04/91;VISA
+29;GlÃ¼ckAuf;Ambrosius;Mertins;;09.01.1978;04822/66724939;0172/2642168;a.mertins@ultramail.none;0000 8750 8623 1100;04/91;VISA
 30;;Wittmar;Schrader;;13.02.1937;07232/51842551;0157/7243767;wittmar_schrader@spam-mail.none;0000 7773 4500 0000;08/10;Mastercard
 31;Ruhrmorig;Reinhold;Baisch;m;04.08.1960;;0159/9950654;rbaisch@retromail.none;0000 0779 3530 9000;07/18;Mastercard
 32;Blaetterglueck;Celia;Strittmatter;w;07.12.2020;;0166/6077249;c.strittmatter@anymail.none;0000 4170 0543 0600;05/99;VISA
 33;;Lothar;Lloyd;d;12.12.2009;04773/8276789;0168/4621067;lothar_lloyd@quickmail.none;0000 0285 0503 0000;02/84;VISA
-34;WochenendGLück;Edelgard;Becherer;w;31.08.1924;06201/9462228;0169/7161130;e-1924@domain.none;0000 0365 0501 1000;04/19;VISA
+34;WochenendGLÃ¼ck;Edelgard;Becherer;w;31.08.1924;06201/9462228;0169/7161130;e-1924@domain.none;0000 0365 0501 1000;04/19;VISA
 35;;Hans;Baumstark;m;21.01.2020;02753/84805400;0150/2469028;hans.baumstark@quickmail.none;0000 1937 0502 9900;10/06;Mastercard
 36;Druff1848;Volkward;Weihe;m;20.05.1908;06375/7123388;0178/6864157;volkwardweihe@live-mail.none;0000 1072 0621 5200;01/21;VISA
 37;;Ottilie;Kratz;w;08.11.2017;;0162/4702019;ottilie-kratz@net-mail.none;0000 8556 0900 0000;12/93;American Express
 38;VolleRose;Siegrid;Jungmann;d;05.06.2017;02181/30012851;0169/5393762;siegrid2017@domain.none;0000 2226 9513 1100;11/13;American Express
-39;;Ruthilde;Hämmerle;w;15.03.1986;05943/5004255;0161/3416088;ruthilde.haemmerle@email.none;0000 7460 0501 0100;05/15;VISA
+39;;Ruthilde;HÃ¤mmerle;w;15.03.1986;05943/5004255;0161/3416088;ruthilde.haemmerle@email.none;0000 7460 0501 0100;05/15;VISA
 40;;Heideliese;Reifenrath;w;01.09.1952;0671/57677112;0158/1393829;hreifenrath@trashmail.none;0000 4183 0505 0500;08/20;Mastercard
 41;;Arkadius;Mansfeld;m;04.08.1972;;0159/4049900;arkadius.mansfeld@kitty.none;0000 5828 0210 0200;06/08;Mastercard
-42;GlückAuf;Nadja;Joseph;w;27.01.1902;03883/90524820;0172/3681988;nadja.joseph@quickmail.none;0000 4566 2614 1600;06/93;Mastercard
+42;GlÃ¼ckAuf;Nadja;Joseph;w;27.01.1902;03883/90524820;0172/3681988;nadja.joseph@quickmail.none;0000 4566 2614 1600;06/93;Mastercard
 43;;Helena;Pauli;w;18.11.1971;08392/37548890;0153/6302491;helena-pauli@net-mail.none;0000 8351 0500 1500;05/20;VISA
 44;Ruhrmorig;Ewalda;Carmen;w;10.10.1945;;0177/9629711;ewaldacarmen@spam-mail.none;0000 8567 0700 2400;10/03;Mastercard
 45;Blaetterglueck;Adi;Thier;m;21.09.1996;07302/65403365;;a1996@ultramail.none;0000 2913 0700 0000;06/14;Mastercard
 46;;Lore;Prokop;w;10.06.2013;04639/13387453;0154/2552601;l-prokop@net-mail.none;0000 5659 1900 0000;10/75;Mastercard
-47;WochenendGLück;Karolin;Simon;w;20.09.1954;06266/42926642;0179/5941206;karolin.simon@spam-mail.none;0000 2221 8900 2200;03/17;VISA
+47;WochenendGLÃ¼ck;Karolin;Simon;w;20.09.1954;06266/42926642;0179/5941206;karolin.simon@spam-mail.none;0000 2221 8900 2200;03/17;VISA
 48;;Thorsten;Petersen;m;28.11.1937;0941/56908084;0152/8443033;t-petersen@company.none;0000 1461 0605 0000;04/17;VISA
-49;Druff1848;Käthchen;Majewski;w;04.04.1988;02643/72545370;0179/1595807;kaethchen_majewski@web.none;0000 0357 0900 0000;10/96;Mastercard
+49;Druff1848;KÃ¤thchen;Majewski;w;04.04.1988;02643/72545370;0179/1595807;kaethchen_majewski@web.none;0000 0357 0900 0000;10/96;Mastercard
 50;;Elfy;Clayton;w;03.02.1941;08641/3459764;0162/6542216;elfyclayton@open-mail.none;0000 4754 0502 2000;03/20;VISA
 51;VolleRose;Evelore;Bruno;;10.07.1906;03996/15982107;0154/6832603;evelore.bruno@anymail.none;0000 9154 0616 5000;07/20;Mastercard
 52;;Christel;Dirks;;09.06.1970;;0152/7004644;christel.dirks@domain.none;0000 5672 0693 2900;07/20;Mastercard
-53;;Friedgard;Hövel;w;28.12.1956;08034/83799366;;friedgard.hoevel@open-mail.none;0000 3783 0944 5400;02/20;VISA
-54;;Markwart;Klütsch;m;15.02.1902;;0151/7314181;markwart.kluetsch@ultramail.none;0000 9462 2901 1000;05/18;VISA
-55;GlückAuf;Nick;Willemsen;m;01.06.1993;04665/18437247;;nick-willemsen@web.none;0000 8021 6617 1900;05/99;VISA
+53;;Friedgard;HÃ¶vel;w;28.12.1956;08034/83799366;;friedgard.hoevel@open-mail.none;0000 3783 0944 5400;02/20;VISA
+54;;Markwart;KlÃ¼tsch;m;15.02.1902;;0151/7314181;markwart.kluetsch@ultramail.none;0000 9462 2901 1000;05/18;VISA
+55;GlÃ¼ckAuf;Nick;Willemsen;m;01.06.1993;04665/18437247;;nick-willemsen@web.none;0000 8021 6617 1900;05/99;VISA
 56;;Ilselore;Max;w;23.01.1934;05162/73083498;;ilseloremax@web.none;0000 4326 5626 9400;11/14;American Express
 57;Ruhrmorig;Otfried;Hopf;d;05.06.1925;02692/94777741;0175/4106280;o1925@web.none;0000 6228 0698 7800;07/18;Mastercard
 58;Blaetterglueck;Gisbert;Marks;m;14.09.1965;06696/55959241;0175/5643608;gisbert.marks@company.none;0000 5475 3500 0000;12/11;American Express
 59;;Karlfried;Bertram;m;16.09.1946;;0177/1740225;karlfriedbertram@spam-mail.none;0000 3747 2700 2900;08/03;Mastercard
-60;WochenendGLück;Vivien;Kokott;w;13.03.2015;;0173/5817542;vivien.kokott@retromail.none;0000 2576 0260 0000;12/17;American Express
+60;WochenendGLÃ¼ck;Vivien;Kokott;w;13.03.2015;;0173/5817542;vivien.kokott@retromail.none;0000 2576 0260 0000;12/17;American Express
 61;;Maik;Maus;m;11.09.2003;02661/69236454;;m_maus@xyz.none;0000 4563 0901 0000;11/08;American Express
 62;Druff1848;Horst;Manning;d;15.04.1950;06550/10492762;0168/7214764;horst_manning@domain.none;0000 2730 1308 0000;11/17;American Express
 63;;Anica;Napp;w;15.10.1907;06221/80864193;0150/6864515;anica_napp@mymail.none;0000 9250 8700 0500;11/11;American Express
 64;VolleRose;Reni;Epp;;29.04.1903;0203/66929082;0175/3210841;reni_epp@kitty.none;0000 0955 0912 0000;06/10;Mastercard
 65;;Willma;Rockel;w;28.11.1913;06525/75330863;0167/1247289;willma-rockel@private.none;0000 1562 0700 2400;09/76;Mastercard
-66;;Sonnhild;Dütsch;;05.08.1950;06751/87284175;;sonnhild-50@private.none;0000 9160 2911 2000;10/14;Mastercard
-67;;Margrit;Händler;w;09.02.1962;;0170/8890846;margrit_62@hoster.none;0000 3147 8535 2000;10/20;Mastercard
-68;GlückAuf;Ambros;Hanemann;m;25.08.1988;05875/61951269;0168/2390726;ambroshanemann@spam-mail.none;0000 9333 0600 9800;11/12;American Express
-69;;Kathrina;Lüttich;d;24.07.1955;02692/44265118;0156/5593583;kathrina_luettich@funmail.none;0000 6624 0603 0000;09/01;Mastercard
+66;;Sonnhild;DÃ¼tsch;;05.08.1950;06751/87284175;;sonnhild-50@private.none;0000 9160 2911 2000;10/14;Mastercard
+67;;Margrit;HÃ¤ndler;w;09.02.1962;;0170/8890846;margrit_62@hoster.none;0000 3147 8535 2000;10/20;Mastercard
+68;GlÃ¼ckAuf;Ambros;Hanemann;m;25.08.1988;05875/61951269;0168/2390726;ambroshanemann@spam-mail.none;0000 9333 0600 9800;11/12;American Express
+69;;Kathrina;LÃ¼ttich;d;24.07.1955;02692/44265118;0156/5593583;kathrina_luettich@funmail.none;0000 6624 0603 0000;09/01;Mastercard
 71;Blaetterglueck;Tiemo;Hamacher;m;16.07.1939;06551/61635596;0179/8130491;t-hamacher@xyz.none;0000 9372 0501 0100;04/19;VISA
 72;;Magdalene;Fritsche;w;25.12.2020;;0172/8658234;magdalene.20@goggle-mail.none;0000 7376 3515 6000;12/17;American Express
-73;WochenendGLück;Käthi;Kupsch;;21.01.1996;04282/98612255;0178/9213730;kaethi_kupsch@goggle-mail.none;0000 6644 0400 3700;09/92;Mastercard
+73;WochenendGLÃ¼ck;KÃ¤thi;Kupsch;;21.01.1996;04282/98612255;0178/9213730;kaethi_kupsch@goggle-mail.none;0000 6644 0400 3700;09/92;Mastercard
 74;;Edelinde;Nehring;;02.08.1978;06486/22166869;0158/6964270;edelinde-1978@open-mail.none;0000 6050 6521 2400;05/01;VISA
 75;Druff1848;Griseldis;Fahrner;w;19.11.1934;02691/12234171;0178/6842406;griseldis34@net-mail.none;0000 0380 0800 0000;03/15;VISA
 76;;Lienhard;Below;m;14.05.1909;;0174/9833434;lienhard-below@mymail.none;0000 2761 3700 8600;09/06;Mastercard
 77;VolleRose;Tilman;Figueroa;;30.06.2017;;0168/1521599;tilman.figueroa@email.none;0000 2669 2900 0000;06/92;Mastercard
 78;;Erkhild;Arens;w;25.06.1969;06724/69475033;;erkhild_arens@company.none;0000 6724 0501 1000;03/11;VISA
 79;;Marianne;Markovic;w;13.07.2010;04561/73667857;0157/8745023;marianne.markovic@private.none;0000 5044 5800 7000;05/01;VISA
-80;;Anfriede;Löw;d;01.03.1987;08243/86370067;0160/9702614;a.loew@hoster.none;0000 1765 0910 4000;02/04;VISA
-81;GlückAuf;Rosa;Wendler;w;24.03.2002;0821/24195966;;rosa_wendler@retromail.none;0000 7257 6500 1000;02/15;VISA
+80;;Anfriede;LÃ¶w;d;01.03.1987;08243/86370067;0160/9702614;a.loew@hoster.none;0000 1765 0910 4000;02/04;VISA
+81;GlÃ¼ckAuf;Rosa;Wendler;w;24.03.2002;0821/24195966;;rosa_wendler@retromail.none;0000 7257 6500 1000;02/15;VISA
 82;;Nik;Lindemann;m;01.09.1977;;;niklindemann@open-mail.none;0000 2668 3500 4800;09/97;Mastercard
 83;Ruhrmorig;Diethart;Detlefsen;m;13.02.1907;0228/39047774;0171/7845678;diethart-07@retromail.none;0000 1787 0540 0000;11/12;American Express
 84;Blaetterglueck;Wolfgard;Gabel;w;05.06.1902;04281/7179799;0160/5921773;wolfgard-gabel@anymail.none;0000 2657 0928 0000;09/20;Mastercard
 85;;Marius;Rathke;m;24.02.1960;08106/70916661;0154/3326042;marius1960@quickmail.none;0000 6071 1600 0000;10/15;Mastercard
-86;WochenendGLück;Ribana;Eisenblätter;w;24.08.1954;;0155/7969886;ribana.eisenblaetter@justmail.none;0000 9854 5700 9400;06/12;Mastercard
+86;WochenendGLÃ¼ck;Ribana;EisenblÃ¤tter;w;24.08.1954;;0155/7969886;ribana.eisenblaetter@justmail.none;0000 9854 5700 9400;06/12;Mastercard
 87;;Hansgerd;Lautner;m;27.01.1946;03973/38898490;0166/7147530;h.lautner@web.none;0000 7653 3500 0000;07/18;Mastercard
 88;Druff1848;Melissa;Breitfeld;w;25.11.1935;02233/74514817;0176/8137512;melissa-breitfeld@mymail.none;0000 4968 3500 4800;06/88;Mastercard
 89;;Helgomar;Matthiessen;m;23.07.1959;06525/47736641;0151/7766881;helgomar1959@spam-mail.none;0000 1526 5624 9000;09/19;Mastercard
@@ -91,12 +91,12 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 91;;Friedlies;Jenkins;w;25.07.1942;07042/49917301;0165/4790619;friedlies.jenkins@hoster.none;0000 5983 0645 6800;04/20;VISA
 92;;Ricardo;Rieber;m;24.06.1921;06785/48422260;0174/9283236;ricardo.rieber@mymail.none;0000 5410 0610 0600;01/04;VISA
 93;;Woldemar;Kampa;m;08.07.1925;0355/78183021;0159/8259709;w.kampa@kitty.none;0000 5059 0100 3900;04/16;VISA
-94;GlückAuf;Babette;Rößner;w;17.06.1921;;0153/1866257;babetteroessner@domain.none;0000 0357 4700 4700;12/20;American Express
+94;GlÃ¼ckAuf;Babette;RÃ¶ÃŸner;w;17.06.1921;;0153/1866257;babetteroessner@domain.none;0000 0357 4700 4700;12/20;American Express
 95;;Kathleen;Eigner;;20.08.1947;05861/84253109;;kathleen-eigner@company.none;0000 5486 0104 2400;02/13;VISA
 96;Ruhrmorig;Rotraud;Steimle;w;02.05.1914;02402/49777479;0152/6733217;rotraud_steimle@trashmail.none;0000 0210 0700 2400;06/03;Mastercard
-97;Blaetterglueck;Cäcilia;Bretschneider;w;05.01.1987;06087/50598849;0160/6390992;caecilia_bretschneider@goggle-mail.none;0000 5282 0700 0000;04/19;VISA
+97;Blaetterglueck;CÃ¤cilia;Bretschneider;w;05.01.1987;06087/50598849;0160/6390992;caecilia_bretschneider@goggle-mail.none;0000 5282 0700 0000;04/19;VISA
 98;;Diemo;Wilkerson;m;06.02.1992;06500/28186455;0173/1606228;diemo-wilkerson@anymail.none;0000 3876 0260 0000;06/98;Mastercard
-99;WochenendGLück;Karlheinrich;Conrady;m;16.06.1967;;0165/1342200;karlheinrich_conrady@validmail.none;0000 8770 0905 0000;07/87;Mastercard
+99;WochenendGLÃ¼ck;Karlheinrich;Conrady;m;16.06.1967;;0165/1342200;karlheinrich_conrady@validmail.none;0000 8770 0905 0000;07/87;Mastercard
 100;;Friedlieb;Jimenez;m;13.07.1936;06554/48617409;;friedlieb.jimenez@net-mail.none;0000 5766 2914 0000;06/99;Mastercard
 101;Druff1848;Anouschka;Schwegmann;d;08.12.1975;06361/36776096;0164/2432738;anouschka.schwegmann@mymail.none;0000 6071 0500 0000;12/18;American Express
 102;;Rosely;Zender;w;16.04.2006;06131/15964260;0172/8315324;r.zender@net-mail.none;0000 5650 0930 0000;10/11;Mastercard
@@ -104,25 +104,25 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 104;;Sigfried;Veith;m;22.06.1955;;;sigfried_veith@quickmail.none;0000 1570 0518 0500;10/90;Mastercard
 105;;Mechthilde;Fitzner;w;10.01.1963;08230/88088649;0152/5415707;mechthilde.fitzner@email.none;0000 1574 2500 0000;05/06;VISA
 106;;Rosely;Eggers;w;18.01.1974;06771/25012286;0154/7614104;rosely_1974@quickmail.none;0000 5720 0400 0000;02/83;VISA
-107;GlückAuf;Walter;Thier;m;31.12.1951;07157/85249796;0165/4543863;walterthier@web.none;0000 6425 0800 2000;12/10;American Express
+107;GlÃ¼ckAuf;Walter;Thier;m;31.12.1951;07157/85249796;0165/4543863;walterthier@web.none;0000 6425 0800 2000;12/10;American Express
 108;;Willibert;Wanders;;18.01.1932;07025/19172323;0179/3613414;willibert_wanders@justmail.none;0000 6558 6619 0100;01/16;VISA
 109;Ruhrmorig;Elrike;Buchheim;w;13.05.1977;04153/5921214;;elrike_buchheim@goggle-mail.none;0000 8426 6600 6000;08/19;Mastercard
 110;Blaetterglueck;Mattis;Burghard;m;01.07.1938;02832/93682161;0166/1288184;mattis_burghard@quickmail.none;0000 4329 1626 9700;07/16;Mastercard
 111;;Svea;Eckel;w;23.08.1971;;0162/7171893;s.eckel@bestmail.none;0000 4076 3515 6000;05/87;VISA
-112;WochenendGLück;Walther;Reichhardt;m;03.11.1975;06564/97040137;0156/2857961;w.reichhardt@spam-mail.none;0000 0650 5101 3200;04/89;VISA
-113;;Lotta;Wüstefeld;w;08.01.1964;;;l_wuestefeld@trashmail.none;0000 7547 2601 2100;11/14;American Express
+112;WochenendGLÃ¼ck;Walther;Reichhardt;m;03.11.1975;06564/97040137;0156/2857961;w.reichhardt@spam-mail.none;0000 0650 5101 3200;04/89;VISA
+113;;Lotta;WÃ¼stefeld;w;08.01.1964;;;l_wuestefeld@trashmail.none;0000 7547 2601 2100;11/14;American Express
 114;Druff1848;Innozenz;Wilke;m;26.01.1943;04547/81148640;0171/7850260;innozenz_wilke@anymail.none;0000 8225 0700 2400;10/86;Mastercard
 115;;Iman;Demirel;m;10.10.2015;06727/63554870;0169/1290925;idemirel@net-mail.none;0000 0778 0608 9600;07/03;Mastercard
-116;VolleRose;Erkhild;Bödecker;w;28.10.1965;02131/88434418;0170/4707150;e-boedecker@open-mail.none;0000 3648 0700 2000;11/11;American Express
-117;;Karlgünter;Lindenau;m;30.12.1943;;0171/1386923;karlguenter43@bestmail.none;0000 7784 0540 4000;10/15;Mastercard
+116;VolleRose;Erkhild;BÃ¶decker;w;28.10.1965;02131/88434418;0170/4707150;e-boedecker@open-mail.none;0000 3648 0700 2000;11/11;American Express
+117;;KarlgÃ¼nter;Lindenau;m;30.12.1943;;0171/1386923;karlguenter43@bestmail.none;0000 7784 0540 4000;10/15;Mastercard
 118;;Edeltraud;Hardt;d;15.04.2005;02663/46415610;0177/3655143;edeltraudhardt@quickmail.none;0000 3773 3692 6400;03/20;VISA
 119;;Bert;Zahn;d;07.02.1954;02691/42996751;0152/4447608;bert.zahn@anymail.none;0000 3670 0400 4800;05/15;VISA
-120;GlückAuf;Emma;Riepe;;08.05.1944;07255/32413004;0178/9252417;emma-riepe@justmail.none;0000 9052 0700 2400;05/07;VISA
+120;GlÃ¼ckAuf;Emma;Riepe;;08.05.1944;07255/32413004;0178/9252417;emma-riepe@justmail.none;0000 9052 0700 2400;05/07;VISA
 121;;Bertfriede;Brunkhorst;w;16.06.1903;;0157/5019255;b.brunkhorst@kitty.none;0000 6371 0610 0900;10/19;Mastercard
-122;Ruhrmorig;Jessica;Reißig;w;22.06.2009;04305/43834509;0170/8475308;j.reissig@validmail.none;0000 7636 0800 8000;08/05;Mastercard
+122;Ruhrmorig;Jessica;ReiÃŸig;w;22.06.2009;04305/43834509;0170/8475308;j.reissig@validmail.none;0000 7636 0800 8000;08/05;Mastercard
 123;Blaetterglueck;Oscar;Bart;;26.07.2011;02202/90389090;0179/7033000;o_bart@xyz.none;0000 5830 0700 2400;11/13;American Express
 124;;Dario;Rohlfs;m;07.11.1914;;0170/3402421;dario.rohlfs@quickmail.none;0000 7072 1608 1800;10/05;Mastercard
-125;WochenendGLück;Eileen;Poppinga;w;19.03.1962;07531/8313514;;eileenpoppinga@anymail.none;0000 4558 5501 3000;10/13;Mastercard
+125;WochenendGLÃ¼ck;Eileen;Poppinga;w;19.03.1962;07531/8313514;;eileenpoppinga@anymail.none;0000 4558 5501 3000;10/13;Mastercard
 126;;Gottwald;Lichtenberger;m;05.07.1936;06563/44424869;0160/5202612;glichtenberger@inter-mail.none;0000 1776 0694 6800;08/19;Mastercard
 127;Druff1848;Sighilde;Allmendinger;w;18.11.1970;04834/82684812;0159/4743966;sighilde-allmendinger@ultramail.none;0000 1874 1641 4900;11/20;American Express
 128;;Ulwin;Reidenbach;;26.08.1961;05751/85481576;0175/4401688;ureidenbach@bestmail.none;0000 0818 0550 0000;04/90;VISA
@@ -130,12 +130,12 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 130;;Arnfred;Juhnke;;16.04.1932;05364/11267894;0160/3171276;arnfred_juhnke@trashmail.none;0000 4114 0613 0800;08/04;Mastercard
 131;;Hannelie;Dopfer;;23.10.1996;;0156/7415251;h-dopfer@ultramail.none;0000 9650 7500 9400;04/16;VISA
 132;;Delf;Schiel;m;26.07.2005;;0158/5313535;d-schiel@kitty.none;0000 8869 0500 0100;03/91;VISA
-133;GlückAuf;Eitelbert;Westenberger;m;12.07.1947;06094/7833060;;eitelbertwestenberger@funmail.none;0000 8968 0920 0000;03/11;VISA
+133;GlÃ¼ckAuf;Eitelbert;Westenberger;m;12.07.1947;06094/7833060;;eitelbertwestenberger@funmail.none;0000 8968 0920 0000;03/11;VISA
 134;;Gretl;Penzel;w;20.09.1939;;0156/4775632;gretl-penzel@mymail.none;0000 5642 0306 0000;11/95;American Express
 135;Ruhrmorig;Holk;Wilms;d;14.01.1958;07243/1270334;0174/7421839;holk-wilms@company.none;0000 7929 2657 4700;01/17;VISA
 136;Blaetterglueck;Gudula;Wehrle;w;04.06.1946;;0179/5639418;gudula_46@bestmail.none;0000 0568 3515 5700;04/13;VISA
 137;;Susanne;Neufeld;w;22.11.2001;07141/71790384;0161/9182032;s.01@kitty.none;0000 9563 0614 8600;08/13;Mastercard
-138;WochenendGLück;Doris;Köhnlein;w;06.11.1943;02685/89713045;;doris_koehnlein@retromail.none;0000 9850 7500 9400;06/20;Mastercard
+138;WochenendGLÃ¼ck;Doris;KÃ¶hnlein;w;06.11.1943;02685/89713045;;doris_koehnlein@retromail.none;0000 9850 7500 9400;06/20;Mastercard
 139;;Annalena;Schaf;w;24.10.1953;02651/56442183;;a-schaf@net-mail.none;0000 5069 0618 0000;09/12;Mastercard
 140;Druff1848;Merten;Bernhardt;;14.08.1986;;;merten.bernhardt@goggle-mail.none;0000 4832 0603 6200;06/83;Mastercard
 141;;Robin;Zoeller;m;18.05.1979;;0163/9813343;r-zoeller@net-mail.none;0000 0585 0550 0000;11/15;American Express
@@ -143,12 +143,12 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 143;;Karleugen;Perry;;27.08.1917;0511/70719831;;karleugen17@email.none;0000 6150 2304 0000;12/88;American Express
 144;;Helwig;Stone;m;07.05.1968;07451/52326173;0170/2740914;h_stone@email.none;0000 7320 7500 0000;06/20;Mastercard
 145;;Ireneus;Hauber;m;06.01.2005;06751/29142747;;ireneushauber@ultramail.none;0000 9146 0800 1000;12/84;American Express
-146;GlückAuf;Albert;Wurster;m;30.03.1907;07275/4298476;0162/9773261;albertwurster@private.none;0000 1674 0500 0000;05/18;VISA
+146;GlÃ¼ckAuf;Albert;Wurster;m;30.03.1907;07275/4298476;0162/9773261;albertwurster@private.none;0000 1674 0500 0000;05/18;VISA
 147;;Achim;Reineke;m;13.03.1986;;0161/3220482;achim.1986@bestmail.none;0000 8943 0609 6700;06/20;Mastercard
 148;Ruhrmorig;Loremarie;Kocks;w;09.04.1921;030/45007487;0176/2970079;loremarie.21@inter-mail.none;0000 2172 0690 3600;06/06;Mastercard
 149;Blaetterglueck;Erk;Graber;m;16.03.2008;06371/31100223;0179/9029001;egraber@trashmail.none;0000 4815 0505 0000;03/09;VISA
-150;;Otwald;Nußbaumer;m;01.12.1965;05936/60168068;0167/5490249;otwaldnussbaumer@domain.none;0000 0852 3600 5900;05/18;VISA
-151;WochenendGLück;Rosely;Dann;w;04.02.2015;03371/15260417;0152/8070120;rosely_dann@justmail.none;0000 9185 5900 0000;11/14;American Express
+150;;Otwald;NuÃŸbaumer;m;01.12.1965;05936/60168068;0167/5490249;otwaldnussbaumer@domain.none;0000 0852 3600 5900;05/18;VISA
+151;WochenendGLÃ¼ck;Rosely;Dann;w;04.02.2015;03371/15260417;0152/8070120;rosely_dann@justmail.none;0000 9185 5900 0000;11/14;American Express
 152;;Didi;Seidemann;m;28.12.2002;06708/61372940;0157/8573057;didi02@spam-mail.none;0000 8147 2515 5000;08/05;Mastercard
 153;Druff1848;Wilbrand;Kasimir;m;29.10.1946;06771/91648909;0159/5669625;wilbrand-kasimir@inter-mail.none;0000 7079 1614 9900;11/02;American Express
 154;;Willmar;Kaminski;m;01.03.1970;;0169/9096998;willmar-kaminski@inter-mail.none;0000 8476 0694 4100;05/11;VISA
@@ -156,25 +156,25 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 156;;Miguel;Grothe;m;03.08.1985;06527/12465464;0151/9355769;m.grothe@spam-mail.none;0000 1868 0920 0000;06/92;Mastercard
 157;;Anneke;Obermann;w;28.07.1939;08122/52800493;0160/7837252;anneke_obermann@funmail.none;0000 1973 4514 5000;03/19;VISA
 158;;Ingemarie;Stephan;w;21.05.2016;06375/22936249;0162/1907093;ingemarie-stephan@xyz.none;0000 5160 2618 1800;05/85;VISA
-159;GlückAuf;Lilia;Leitl;w;05.08.1919;;0179/1742823;l.leitl@validmail.none;0000 0882 0700 0000;05/19;VISA
+159;GlÃ¼ckAuf;Lilia;Leitl;w;05.08.1919;;0179/1742823;l.leitl@validmail.none;0000 0882 0700 0000;05/19;VISA
 160;;Doraline;Fehling;w;24.02.1976;04283/90175873;;d.fehling@anymail.none;0000 8078 0608 9600;12/15;American Express
 161;Ruhrmorig;Schorsch;Moreno;m;25.06.1909;;0152/1663892;schorsch_moreno@web.none;0000 8153 0932 0000;07/16;Mastercard
 162;Blaetterglueck;Ursula;West;;13.11.1924;;0152/3243116;u_west@live-mail.none;0000 7923 0510 3000;06/13;Mastercard
 163;;Margret;Schnoor;;10.11.1918;;0154/5528051;margret.schnoor@private.none;0000 8784 0800 0000;07/08;Mastercard
-164;WochenendGLück;Udo;Sikora;m;31.10.1975;08253/5196691;0152/5161316;u-sikora@quickmail.none;0000 9067 4617 3300;03/94;VISA
+164;WochenendGLÃ¼ck;Udo;Sikora;m;31.10.1975;08253/5196691;0152/5161316;u-sikora@quickmail.none;0000 9067 4617 3300;03/94;VISA
 165;;Kristiane;Ahr;w;02.12.1960;06550/60305867;0150/2417499;kristiane-1960@trashmail.none;0000 1024 1628 9800;12/14;American Express
 166;Druff1848;Viktor;Burghard;m;01.05.2004;040/38836250;0164/8188813;viktorburghard@company.none;0000 5170 1900 0000;09/20;Mastercard
 167;;Eckehart;Mehrens;m;18.04.1945;;0157/3773901;e.mehrens@anymail.none;0000 5270 0510 0300;03/10;VISA
 168;VolleRose;Muhammed;Hillebrandt;m;25.01.1934;;;m.hillebrandt@anymail.none;0000 9370 3900 0000;10/01;Mastercard
 169;;Withold;Grundmann;m;18.12.1917;06581/25834972;0170/7765522;w-grundmann@justmail.none;0000 4815 0504 0000;07/17;Mastercard
 170;;Ilka;Wiemer;w;13.08.1938;0551/13724446;0161/8288861;i-wiemer@company.none;0000 4966 5500 7000;02/16;VISA
-171;;Eileen;Köhler;w;03.10.1976;0481/60166219;;eileenkoehler@private.none;0000 6628 0906 3300;11/13;American Express
-172;GlückAuf;Ludwig;Klingelhöfer;;12.05.2015;;0173/5162584;ludwig.klingelhoefer@hoster.none;0000 8246 0600 4000;12/92;American Express
+171;;Eileen;KÃ¶hler;w;03.10.1976;0481/60166219;;eileenkoehler@private.none;0000 6628 0906 3300;11/13;American Express
+172;GlÃ¼ckAuf;Ludwig;KlingelhÃ¶fer;;12.05.2015;;0173/5162584;ludwig.klingelhoefer@hoster.none;0000 8246 0600 4000;12/92;American Express
 173;;Heimgard;Petrich;;07.08.1954;07272/49929440;0175/4403002;heimgard-petrich@email.none;0000 8369 3620 3200;10/19;Mastercard
 174;Ruhrmorig;Antonie;Juraschek;w;01.05.2009;08654/32494493;0158/7010623;antoniejuraschek@goggle-mail.none;0000 9772 0693 0800;09/05;Mastercard
 175;Blaetterglueck;Ingmar;Endler;m;10.02.1962;06541/22731521;0158/5647872;i.endler@domain.none;0000 0515 0800 0000;09/03;Mastercard
 176;;Desiderius;Guth;m;07.04.1909;06747/57854339;0164/6197375;desiderius.guth@bestmail.none;0000 5737 0800 8700;06/91;Mastercard
-177;WochenendGLück;Nik;Steudel;d;16.09.2011;04681/90481821;0179/9983728;nik.steudel@bestmail.none;0000 5666 3500 3600;05/08;VISA
+177;WochenendGLÃ¼ck;Nik;Steudel;d;16.09.2011;04681/90481821;0179/9983728;nik.steudel@bestmail.none;0000 5666 3500 3600;05/08;VISA
 178;;Hiltrud;Osman;w;03.08.2005;02628/82287124;;hiltrud_osman@mymail.none;0000 0880 0200 8700;02/90;VISA
 179;Druff1848;Janette;Fitz;;20.11.1965;07393/41893716;;j-fitz@mymail.none;0000 2287 0700 0000;12/11;American Express
 180;;Lienard;Rennert;m;14.08.1952;0761/19822395;;lienard-rennert@quickmail.none;0000 1174 1910 0000;01/15;VISA
@@ -182,51 +182,51 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 182;;Dankwart;Bockholt;m;11.02.1937;06346/29907604;0173/7903917;d1937@ultramail.none;0000 2269 4917 0000;06/19;Mastercard
 183;;Sybil;Rosendahl;w;07.04.1979;02685/81299487;;srosendahl@xyz.none;0000 2170 2501 5000;03/12;VISA
 184;;Arnbert;Korb;m;24.07.1987;;;arnbert_korb@bestmail.none;0000 8879 0500 0000;04/19;VISA
-185;GlückAuf;Edwina;Klauer;d;17.10.1948;;;edwina-klauer@private.none;0000 8177 0651 4100;10/19;Mastercard
+185;GlÃ¼ckAuf;Edwina;Klauer;d;17.10.1948;;;edwina-klauer@private.none;0000 8177 0651 4100;10/19;Mastercard
 186;;Sascha;Weyer;d;08.12.1930;03907/91547360;0179/8940136;s.30@xyz.none;0000 8757 6622 6300;04/94;VISA
-187;Ruhrmorig;Hansjürgen;Dirks;m;22.07.1985;;0179/8784231;hansjuergen_dirks@goggle-mail.none;0000 6261 2612 1300;11/20;American Express
+187;Ruhrmorig;HansjÃ¼rgen;Dirks;m;22.07.1985;;0179/8784231;hansjuergen_dirks@goggle-mail.none;0000 6261 2612 1300;11/20;American Express
 188;Blaetterglueck;Irlanda;Sirch;w;23.12.1969;06764/99222348;;i_sirch@net-mail.none;0000 6550 0617 4100;11/06;American Express
 189;;Dankward;Jost;m;26.10.1920;030/1515492;0171/7671678;dankward.1920@email.none;0000 5052 0521 5400;07/12;Mastercard
-190;WochenendGLück;Elke;Olbrich;w;29.04.1970;;0157/5520925;elke.olbrich@kitty.none;0000 7272 0691 1300;10/20;Mastercard
-191;;Nikolaus;Gölz;m;25.01.1915;07044/47166104;0156/2613451;nikolaus_goelz@hoster.none;0000 2532 0500 0000;05/10;VISA
+190;WochenendGLÃ¼ck;Elke;Olbrich;w;29.04.1970;;0157/5520925;elke.olbrich@kitty.none;0000 7272 0691 1300;10/20;Mastercard
+191;;Nikolaus;GÃ¶lz;m;25.01.1915;07044/47166104;0156/2613451;nikolaus_goelz@hoster.none;0000 2532 0500 0000;05/10;VISA
 192;Druff1848;Viktor;Goos;m;05.11.2007;;0171/9973681;v.goos@bestmail.none;0000 5022 2900 3100;11/16;American Express
-193;;Volkhardt;Tschöpe;;14.04.1939;06331/24887626;0159/5385686;v.39@live-mail.none;0000 2676 0695 5900;05/05;VISA
+193;;Volkhardt;TschÃ¶pe;;14.04.1939;06331/24887626;0159/5385686;v.39@live-mail.none;0000 2676 0695 5900;05/05;VISA
 194;VolleRose;Kurd;Tiemann;;19.03.2002;0421/15547423;0152/2727573;k.tiemann@email.none;0000 8821 6900 2000;10/08;Mastercard
 195;;Cilly;Resch;w;26.06.2014;04364/46890390;0169/7757950;cilly.resch@inter-mail.none;0000 8164 3901 3000;07/12;Mastercard
 196;;Leongard;Kunzmann;w;30.06.2017;05383/3869166;0169/8913694;lkunzmann@private.none;0000 7350 2101 3900;10/07;Mastercard
 197;;Ingelore;Marktschreier;;25.03.1902;;0166/6001650;ingelore02@open-mail.none;0000 7268 4522 9000;06/96;Mastercard
-198;GlückAuf;Diane;Conner;w;15.08.1963;03605/44955161;0163/6040421;d-63@validmail.none;0000 4359 0200 9000;07/01;Mastercard
+198;GlÃ¼ckAuf;Diane;Conner;w;15.08.1963;03605/44955161;0163/6040421;d-63@validmail.none;0000 4359 0200 9000;07/01;Mastercard
 199;;Rothmund;Kuhnen;;07.09.1902;07132/44393503;;r-kuhnen@trashmail.none;0000 0850 0305 0000;11/13;American Express
 200;Ruhrmorig;Wiltrud;Conrady;w;02.10.1969;;0176/7880227;w.conrady@domain.none;0000 0560 0695 9500;04/10;VISA
-201;Blaetterglueck;Dierk;Löwenstein;m;13.03.1937;06341/90639433;;dierk.37@live-mail.none;0000 9161 1500 2000;05/18;VISA
+201;Blaetterglueck;Dierk;LÃ¶wenstein;m;13.03.1937;06341/90639433;;dierk.37@live-mail.none;0000 9161 1500 2000;05/18;VISA
 202;;Emely;Patz;w;06.11.1966;06136/30678943;;emely.patz@quickmail.none;0000 2465 0920 1000;09/94;Mastercard
-203;WochenendGLück;Friedgard;Nill;w;25.09.1938;07366/71282161;0176/2159892;friedgard-38@kitty.none;0000 6637 0800 4000;01/18;VISA
-204;;Myriam;Höfer;w;11.09.1920;030/18118928;0152/3599532;myriamhoefer@spam-mail.none;0000 5645 8410 3100;11/00;American Express
+203;WochenendGLÃ¼ck;Friedgard;Nill;w;25.09.1938;07366/71282161;0176/2159892;friedgard-38@kitty.none;0000 6637 0800 4000;01/18;VISA
+204;;Myriam;HÃ¶fer;w;11.09.1920;030/18118928;0152/3599532;myriamhoefer@spam-mail.none;0000 5645 8410 3100;11/00;American Express
 205;Druff1848;Hanfried;Zeiske;m;25.08.1959;05182/72351912;0156/9613255;h-zeiske@validmail.none;0000 2526 0624 3300;08/19;Mastercard
 206;;Theo;Ammer;m;09.05.1940;02599/35336070;0179/3065296;theo.ammer@funmail.none;0000 2770 1694 5000;04/10;VISA
 207;VolleRose;Lydia;Haferkamp;w;24.06.1907;05187/79582313;0169/6345764;lydia-07@net-mail.none;0000 1477 0601 0000;03/12;VISA
-208;;Hanno;Händler;m;08.12.1986;0681/86607563;0171/4251691;hanno-haendler@quickmail.none;0000 2813 0700 0000;11/13;American Express
+208;;Hanno;HÃ¤ndler;m;08.12.1986;0681/86607563;0171/4251691;hanno-haendler@quickmail.none;0000 2813 0700 0000;11/13;American Express
 209;;Herwald;Merkl;m;16.06.2001;06372/34338912;;herwald.2001@kitty.none;0000 5625 0400 6600;03/05;VISA
 210;;Helmward;Engelbert;m;16.01.2009;06361/70752682;0177/7048497;h.engelbert@spam-mail.none;0000 9270 0400 4800;03/18;VISA
-211;GlückAuf;Anje;Weingart;;19.07.1914;06622/91028119;0167/1491436;aweingart@goggle-mail.none;0000 2367 0512 0300;02/97;VISA
+211;GlÃ¼ckAuf;Anje;Weingart;;19.07.1914;06622/91028119;0167/1491436;aweingart@goggle-mail.none;0000 2367 0512 0300;02/97;VISA
 212;;Betti;Rauscher;w;29.03.2004;06430/78501591;0151/4342492;b_rauscher@anymail.none;0000 6325 9800 2700;06/88;Mastercard
 213;Ruhrmorig;Joelina;Munoz;w;28.06.1940;07251/35609654;0155/4496691;joelina1940@xyz.none;0000 8370 1633 7000;11/15;American Express
 214;Blaetterglueck;Adele;Bieg;w;10.04.2001;040/68751305;0157/2452605;adele-bieg@kitty.none;0000 5976 2510 2000;10/12;Mastercard
 215;;Detrich;Kulla;;05.08.1978;;0175/1317911;d-kulla@company.none;0000 3660 0698 6000;02/14;VISA
-216;WochenendGLück;Nortrud;Danz;w;03.08.1974;;0156/9816772;nortrud.danz@ultramail.none;0000 8552 0604 1000;04/91;VISA
+216;WochenendGLÃ¼ck;Nortrud;Danz;w;03.08.1974;;0156/9816772;nortrud.danz@ultramail.none;0000 8552 0604 1000;04/91;VISA
 217;;Manuela;Stiehler;d;28.05.1974;05952/92253501;0165/8553436;m.stiehler@goggle-mail.none;0000 6074 2601 1000;10/14;Mastercard
-218;;Dörthe;Doll;w;19.12.1934;02235/98283187;0162/5029834;d1934@domain.none;0000 0369 4500 6500;09/96;Mastercard
+218;;DÃ¶rthe;Doll;w;19.12.1934;02235/98283187;0162/5029834;d1934@domain.none;0000 0369 4500 6500;09/96;Mastercard
 219;;Marfried;Speicher;m;18.03.1979;0711/8420089;0169/5870081;m.1979@web.none;0000 1566 0603 0000;10/94;Mastercard
-220;VolleRose;Nik;Maßmann;;18.11.1911;;0169/4945947;n_massmann@private.none;0000 1580 0400 0000;04/13;VISA
-221;;Sylvelin;Kölbel;w;04.02.1914;06391/85972965;0176/2578399;sylvelin_koelbel@quickmail.none;0000 8379 6665 4800;10/17;Mastercard
+220;VolleRose;Nik;MaÃŸmann;;18.11.1911;;0169/4945947;n_massmann@private.none;0000 1580 0400 0000;04/13;VISA
+221;;Sylvelin;KÃ¶lbel;w;04.02.1914;06391/85972965;0176/2578399;sylvelin_koelbel@quickmail.none;0000 8379 6665 4800;10/17;Mastercard
 222;;Giselher;Weinhardt;m;10.07.1916;07326/71148666;0155/8990849;g-weinhardt@retromail.none;0000 2470 0510 0300;05/92;VISA
 223;;Wolfram;Ammermann;;24.07.1971;02365/17533849;0156/7533711;w.ammermann@open-mail.none;0000 3974 1200 7100;05/14;VISA
-224;GlückAuf;Simone;Lill;w;01.06.1935;03606/1082569;0177/4307786;simone.lill@quickmail.none;0000 0220 0100 2000;09/10;Mastercard
+224;GlÃ¼ckAuf;Simone;Lill;w;01.06.1935;03606/1082569;0177/4307786;simone.lill@quickmail.none;0000 0220 0100 2000;09/10;Mastercard
 225;;Hertha;Schnieders;;14.01.1930;08806/61495215;0164/2117910;hertha-schnieders@funmail.none;0000 5172 0700 2400;12/98;American Express
 226;Ruhrmorig;Rico;Cunningham;m;04.11.1912;0621/59106356;;rico-1912@goggle-mail.none;0000 2820 0300 0000;06/15;Mastercard
 227;Blaetterglueck;Theophil;Metzler;m;05.05.1910;06382/40254210;0163/6429015;theophil.1910@inter-mail.none;0000 8746 0700 2400;03/17;VISA
-228;;Monika;Ruß;w;15.03.1936;02741/42443750;;monika_36@anymail.none;0000 2768 3915 0000;09/16;Mastercard
-229;WochenendGLück;Rieke;Scheler;w;15.06.1977;0851/99017936;0165/3934743;r_1977@inter-mail.none;0000 6674 3690 8800;12/94;American Express
+228;;Monika;RuÃŸ;w;15.03.1936;02741/42443750;;monika_36@anymail.none;0000 2768 3915 0000;09/16;Mastercard
+229;WochenendGLÃ¼ck;Rieke;Scheler;w;15.06.1977;0851/99017936;0165/3934743;r_1977@inter-mail.none;0000 6674 3690 8800;12/94;American Express
 230;;Carolin;Hoppen;w;07.05.1991;02426/55749252;0155/2701099;c.hoppen@justmail.none;0000 9170 1696 1400;08/16;Mastercard
 231;Druff1848;Arite;Bolten;;29.11.2003;;0157/6071005;arite_bolten@mymail.none;0000 8260 4200 0000;12/18;American Express
 232;;Toralf;Glaser;m;29.11.1933;05445/15795482;0158/6476029;toralf-glaser@funmail.none;0000 6950 6616 3900;06/04;Mastercard
@@ -234,117 +234,117 @@ KundeID;VereinsPartnerID;Vorname;Name;Geschlecht;Geburtsdatum;Telefon;Mobil;Emai
 234;;Eckhold;Pinter;m;03.06.1928;02681/59591009;0151/2767052;eckhold_pinter@live-mail.none;0000 1570 1694 6500;02/93;VISA
 235;;Carla;Stetter;w;02.01.1912;06135/42445112;0168/5647002;c_12@ultramail.none;0000 7668 0923 0000;08/14;Mastercard
 236;;Rebecca;Prestel;w;28.08.1911;0381/73552736;0155/7064149;rebecca.11@funmail.none;0000 4787 0400 0000;10/20;Mastercard
-237;GlückAuf;Nathanael;Ebersbach;m;27.10.1950;09408/94146966;0163/8487760;n1950@open-mail.none;0000 3874 0500 0000;02/18;VISA
-238;;Bennett;Köller;;15.11.1927;07231/53900118;;bkoeller@domain.none;0000 7863 0700 8800;02/14;VISA
+237;GlÃ¼ckAuf;Nathanael;Ebersbach;m;27.10.1950;09408/94146966;0163/8487760;n1950@open-mail.none;0000 3874 0500 0000;02/18;VISA
+238;;Bennett;KÃ¶ller;;15.11.1927;07231/53900118;;bkoeller@domain.none;0000 7863 0700 8800;02/14;VISA
 239;Ruhrmorig;Waltraut;Biel;w;05.08.1921;04821/61590218;;waltraut-biel@mymail.none;0000 6350 8500 4900;08/19;Mastercard
 240;Blaetterglueck;Helwig;Dickel;m;23.06.1935;06136/80981834;0156/5103817;helwig-1935@hoster.none;0000 6044 0700 2400;01/18;VISA
 241;;Christhart;Burke;m;17.09.1977;0521/79599813;0172/6079269;christhart1977@anymail.none;0000 5012 0700 8800;09/88;Mastercard
-242;WochenendGLück;Mathis;Holloway;m;26.12.2002;0221/26255568;0156/7704675;m_2002@private.none;0000 7885 0400 0000;04/14;VISA
+242;WochenendGLÃ¼ck;Mathis;Holloway;m;26.12.2002;0221/26255568;0156/7704675;m_2002@private.none;0000 7885 0400 0000;04/14;VISA
 243;;Dora;Schwark;w;21.06.1955;04845/74034879;0172/7480425;dora-1955@mymail.none;0000 7660 0699 2600;05/16;VISA
 244;Druff1848;Sergius;Vega;m;10.11.1928;06861/37225719;0174/5550486;s-1928@justmail.none;0000 6981 0700 2400;12/02;American Express
 245;;Carsten;Giering;;01.08.2020;02271/80678378;0172/6798763;carsten_20@mymail.none;0000 3912 0965 9700;05/08;VISA
 246;VolleRose;Clivia;Pinter;d;09.03.1907;06274/94732093;;clivia.pinter@private.none;0000 7277 0621 3900;02/20;VISA
 247;;Traudl;Vaughn;;05.04.1941;07161/7414254;0170/2160981;tvaughn@open-mail.none;0000 9525 6501 0600;11/16;American Express
-248;;Claudius;Schönfeldt;d;15.11.2016;02661/34365246;0151/1204365;cschoenfeldt@kitty.none;0000 9762 0918 0000;10/85;Mastercard
+248;;Claudius;SchÃ¶nfeldt;d;15.11.2016;02661/34365246;0151/1204365;cschoenfeldt@kitty.none;0000 9762 0918 0000;10/85;Mastercard
 249;;Wolfhard;Korff;m;28.03.1949;;0151/1562120;wolfhard_korff@company.none;0000 1482 0641 6800;05/11;VISA
-250;GlückAuf;Margret;Reinig;w;06.06.1906;09131/71483872;0153/4083348;margret.reinig@funmail.none;0000 3128 0690 9200;11/12;American Express
+250;GlÃ¼ckAuf;Margret;Reinig;w;06.06.1906;09131/71483872;0153/4083348;margret.reinig@funmail.none;0000 3128 0690 9200;11/12;American Express
 251;;Roslinde;Lampert;w;14.12.1967;06542/48814317;0150/9369492;roslinde.1967@goggle-mail.none;0000 3660 3501 3000;11/17;American Express
-252;Ruhrmorig;Sieghart;Thönnes;;02.06.1969;06564/68593845;;sieghartthoennes@open-mail.none;0000 3751 0700 2400;07/13;Mastercard
+252;Ruhrmorig;Sieghart;ThÃ¶nnes;;02.06.1969;06564/68593845;;sieghartthoennes@open-mail.none;0000 3751 0700 2400;07/13;Mastercard
 253;Blaetterglueck;Markwart;Utsch;m;01.05.1937;09176/48069089;0172/4746185;markwart1937@kitty.none;0000 3170 0800 0000;10/00;Mastercard
 254;;Mechthild;Lass;w;23.12.1944;09287/9221284;0161/1509090;mechthild44@net-mail.none;0000 7450 2307 0000;07/16;Mastercard
-255;WochenendGLück;Stephania;Knerr;w;05.02.1980;05324/70801748;0170/5462552;stephania_knerr@private.none;0000 3250 9514 6900;07/13;Mastercard
+255;WochenendGLÃ¼ck;Stephania;Knerr;w;05.02.1980;05324/70801748;0170/5462552;stephania_knerr@private.none;0000 3250 9514 6900;07/13;Mastercard
 256;;Jeannine;Hofmann;w;23.11.1931;08639/63486674;0175/2085713;jeannine.1931@anymail.none;0000 0729 1656 8100;09/17;Mastercard
 257;Druff1848;Heimbert;Traut;m;11.05.1968;06352/97258047;0169/4201875;heimbert68@retromail.none;0000 2666 4500 5000;02/15;VISA
 258;;Delf;Klinke;m;08.05.1957;08282/45929127;0166/8766411;d_klinke@net-mail.none;0000 0960 0697 1000;02/10;VISA
-259;VolleRose;Centa;Geißler;w;13.04.1938;0202/22065973;0173/4916999;centageissler@kitty.none;0000 6152 4109 0000;09/19;Mastercard
+259;VolleRose;Centa;GeiÃŸler;w;13.04.1938;0202/22065973;0173/4916999;centageissler@kitty.none;0000 6152 4109 0000;09/19;Mastercard
 260;;Beat;Engemann;m;27.09.1981;03386/58526402;0175/2202036;beat-engemann@funmail.none;0000 3352 0604 1000;08/19;Mastercard
 261;VolleRose;Fridolin;Fisch;m;27.03.1921;;0154/7847161;ffisch@quickmail.none;0000 3829 0501 0100;07/20;Mastercard
 262;;Tomas;Oettel;m;30.06.1933;06550/72256747;0168/4991564;tomas.33@domain.none;0000 6566 0908 0000;02/21;VISA
-263;GlückAuf;Hiltrud;Winterhoff;d;10.03.2017;05584/13464530;0172/7997805;hiltrud.winterhoff@hoster.none;0000 3275 0690 6100;07/02;Mastercard
+263;GlÃ¼ckAuf;Hiltrud;Winterhoff;d;10.03.2017;05584/13464530;0172/7997805;hiltrud.winterhoff@hoster.none;0000 3275 0690 6100;07/02;Mastercard
 264;;Selina;Bingel;d;07.05.1999;06325/20799879;0179/3338274;selinabingel@open-mail.none;0000 3862 2500 3000;06/20;Mastercard
 265;Ruhrmorig;Dagobert;Stucke;m;25.08.1986;06435/1608303;;dagobert.stucke@inter-mail.none;0000 1728 0672 5700;06/19;Mastercard
 266;Blaetterglueck;Regelinde;Seewald;w;11.09.2003;;0159/9836167;regelinde.seewald@inter-mail.none;0000 5921 4636 0300;09/02;Mastercard
 267;;Kathrin;Hinz;w;07.04.2012;06751/84846150;0179/3793995;kathrin.hinz@kitty.none;0000 8460 0501 0100;01/05;VISA
-268;WochenendGLück;Adeltraut;Heinisch;w;29.03.2005;02984/16310999;0157/6154914;adeltraut-heinisch@trashmail.none;0000 2868 0900 0000;07/86;Mastercard
+268;WochenendGLÃ¼ck;Adeltraut;Heinisch;w;29.03.2005;02984/16310999;0157/6154914;adeltraut-heinisch@trashmail.none;0000 2868 0900 0000;07/86;Mastercard
 269;;Cornelia;Riederer;w;18.12.1915;;0172/8251958;cornelia-riederer@mymail.none;0000 3150 0905 0000;05/09;VISA
 270;Druff1848;Ann;Pfahl;w;19.11.1922;02626/77895744;0163/6582992;ann.pfahl@domain.none;0000 7165 4618 7800;06/97;Mastercard
 271;;Ludolf;Olszewski;m;05.12.1937;;0172/6058936;ludolf.olszewski@goggle-mail.none;0000 3581 0700 2400;08/09;Mastercard
-272;;Ilsemarie;Küstner;d;17.01.1920;02192/85028179;0158/1251956;ilsemarie-kuestner@goggle-mail.none;0000 2151 0500 1500;03/12;VISA
+272;;Ilsemarie;KÃ¼stner;d;17.01.1920;02192/85028179;0158/1251956;ilsemarie-kuestner@goggle-mail.none;0000 2151 0500 1500;03/12;VISA
 273;Druff1848;Beate;Sigg;w;02.10.1918;07533/97143005;0171/5530010;beate_sigg@spam-mail.none;0000 1162 2515 5000;10/14;Mastercard
 274;;Kjell;Vedder;d;26.10.1981;04943/47177452;0166/2302220;kvedder@company.none;0000 9750 3305 0000;11/11;American Express
-275;;Bertolt;Häußermann;;11.08.2004;05192/42387229;0167/7320037;b.haeussermann@spam-mail.none;0000 2386 0101 1100;04/84;VISA
-276;GlückAuf;Gerdhild;Doppelpunkt;w;26.07.2013;;0165/6396952;gerdhild_13@hoster.none;0000 1769 4900 0000;05/15;VISA
+275;;Bertolt;HÃ¤uÃŸermann;;11.08.2004;05192/42387229;0167/7320037;b.haeussermann@spam-mail.none;0000 2386 0101 1100;04/84;VISA
+276;GlÃ¼ckAuf;Gerdhild;Doppelpunkt;w;26.07.2013;;0165/6396952;gerdhild_13@hoster.none;0000 1769 4900 0000;05/15;VISA
 277;;Reni;Dittrich;w;19.04.1992;07657/25257633;;reni_dittrich@goggle-mail.none;0000 3355 0207 0000;10/96;Mastercard
 278;Ruhrmorig;Willmar;Goeke;;30.01.1999;030/21998343;0159/4854445;willmar.goeke@anymail.none;0000 4075 0500 0000;09/00;Mastercard
 279;Blaetterglueck;Benedikta;Baumbach;w;02.05.2003;06525/70851498;0167/6292792;benedikta.baumbach@spam-mail.none;0000 4750 8643 2200;12/13;American Express
 280;;Hildrun;Kiene;w;24.07.1976;06053/80897733;0165/1408501;hildrun_kiene@company.none;0000 7750 1209 0000;01/07;VISA
-281;WochenendGLück;Otger;Rennert;m;26.06.1958;;0170/2976998;otger-rennert@validmail.none;0000 4858 5601 0300;09/85;Mastercard
+281;WochenendGLÃ¼ck;Otger;Rennert;m;26.06.1958;;0170/2976998;otger-rennert@validmail.none;0000 4858 5601 0300;09/85;Mastercard
 282;;Ira;Harmon;;08.03.1902;0234/7063961;0169/2362650;ira-harmon@trashmail.none;0000 9060 2500 1000;11/13;American Express
 283;Druff1848;Alexander;Jeckel;m;15.02.1995;09293/32553138;0159/7248912;a.jeckel@email.none;0000 6255 0305 3300;06/07;Mastercard
 284;;Roswita;Lembcke;w;26.06.2004;06754/97285895;0167/1243840;roswita_lembcke@goggle-mail.none;0000 7051 0917 0000;06/17;Mastercard
 285;VolleRose;Marcus;Hachmeister;;22.07.1927;04532/21308925;0178/3706843;mhachmeister@retromail.none;0000 8825 7500 0100;02/18;VISA
-286;;Götz;Schönborn;m;11.09.1937;;0172/7062299;goetz.schoenborn@funmail.none;0000 4052 0690 2900;09/00;Mastercard
+286;;GÃ¶tz;SchÃ¶nborn;m;11.09.1937;;0172/7062299;goetz.schoenborn@funmail.none;0000 4052 0690 2900;09/00;Mastercard
 287;;Rosmarie;Mages;;04.02.1953;06634/29172594;0161/5134955;r_1953@kitty.none;0000 6336 0400 8500;09/89;Mastercard
-288;;Volkher;Fährmann;d;24.06.2009;04531/54723494;0153/4098740;volkher-faehrmann@justmail.none;0000 3658 6626 5300;12/99;American Express
-289;GlückAuf;Ingo;Huck;;13.09.1979;09153/24357372;;ingohuck@inter-mail.none;0000 0372 1200 7800;11/13;American Express
+288;;Volkher;FÃ¤hrmann;d;24.06.2009;04531/54723494;0153/4098740;volkher-faehrmann@justmail.none;0000 3658 6626 5300;12/99;American Express
+289;GlÃ¼ckAuf;Ingo;Huck;;13.09.1979;09153/24357372;;ingohuck@inter-mail.none;0000 0372 1200 7800;11/13;American Express
 290;;Gislinde;Eichholz;w;22.07.1925;;;gislindeeichholz@hoster.none;0000 6310 1104 0000;01/15;VISA
 291;Ruhrmorig;Noel;Sprick;m;18.01.1934;06047/18166244;0162/5786957;noel_sprick@retromail.none;0000 1051 8500 7900;09/06;Mastercard
 292;Blaetterglueck;Fabienne;Harzer;d;06.12.1912;06525/13145231;;fabienne_harzer@private.none;0000 4844 5500 4500;05/02;VISA
 293;;Leandra;Koplin;;20.11.1923;04191/16139629;0160/1490461;lkoplin@domain.none;0000 4228 0697 7300;01/13;VISA
-294;WochenendGLück;Renate;Zentner;w;07.03.1971;07152/71347125;0172/1148249;rzentner@hoster.none;0000 9732 0613 8400;01/21;VISA
-295;;Cäzilie;Wehrhahn;;31.03.1919;04275/55727339;0172/3468664;caezilie-1919@spam-mail.none;0000 5221 5653 1600;10/02;Mastercard
+294;WochenendGLÃ¼ck;Renate;Zentner;w;07.03.1971;07152/71347125;0172/1148249;rzentner@hoster.none;0000 9732 0613 8400;01/21;VISA
+295;;CÃ¤zilie;Wehrhahn;;31.03.1919;04275/55727339;0172/3468664;caezilie-1919@spam-mail.none;0000 5221 5653 1600;10/02;Mastercard
 296;Druff1848;Sigmar;Kliem;d;26.10.1938;06541/40241502;0154/1378872;sigmar-kliem@email.none;0000 4658 5400 3500;10/11;Mastercard
 297;;Adolph;Chambers;m;05.09.1954;;0150/5859117;a_chambers@retromail.none;0000 6279 0500 0000;12/97;American Express
 298;VolleRose;Ekhard;Nicklaus;m;28.12.2020;;0167/4189196;ekhard-nicklaus@net-mail.none;0000 3421 0501 7000;06/82;Mastercard
 299;;Sybilla;Goltz;;06.09.2005;02692/75091599;0164/1787899;s.05@private.none;0000 1570 0932 0000;07/11;Mastercard
 300;;Tilli;Bethge;w;04.03.1939;05173/97960857;0159/8153916;tilli.bethge@kitty.none;0000 3265 0922 0000;09/91;Mastercard
-301;Ruhrmorig;Theodeline;Böhlke;w;07.08.1981;;;theodeline81@mymail.none;0605 9200 0131 0597;10/16;Mastercard
-302;Blaetterglueck;Marten;Rißmann;m;15.08.1986;05451/78284317;0171/8985622;marten.rissmann@open-mail.none;0200 7300 0462 9509;01/19;VISA
+301;Ruhrmorig;Theodeline;BÃ¶hlke;w;07.08.1981;;;theodeline81@mymail.none;0605 9200 0131 0597;10/16;Mastercard
+302;Blaetterglueck;Marten;RiÃŸmann;m;15.08.1986;05451/78284317;0171/8985622;marten.rissmann@open-mail.none;0200 7300 0462 9509;01/19;VISA
 303;;Emeram;King;m;29.08.1947;09371/14454611;0171/2594569;e-king@web.none;9710 2400 0170 4650;05/17;VISA
-304;Abendröte;Mathis;Mehrtens;m;21.03.1940;02653/79720306;0173/6763498;m-40@open-mail.none;6915 0000 0931 5450;04/08;Mastercard
+304;AbendrÃ¶te;Mathis;Mehrtens;m;21.03.1940;02653/79720306;0173/6763498;m-40@open-mail.none;6915 0000 0931 5450;04/08;Mastercard
 305;;Emily;Riedle;w;21.04.1963;0631/44646107;0178/2080159;eriedle@justmail.none;0640 3800 0868 8082;11/18;American Express
-306;Druff1848;Kassandra;Lüneburg;d;13.11.2010;05923/73379841;0169/6906294;kassandra.lueneburg@trashmail.none;4922 0000 0374 9970;05/17;VISA
+306;Druff1848;Kassandra;LÃ¼neburg;d;13.11.2010;05923/73379841;0169/6906294;kassandra.lueneburg@trashmail.none;4922 0000 0374 9970;05/17;VISA
 307;;Ehrenreich;Stoffers;d;20.02.1906;;0165/9315264;ehrenreichstoffers@anymail.none;6613 3000 0735 3920;04/20;VISA
 308;VolleRose;Arthur;Birke;;11.02.1970;08221/39916250;0152/8164464;arthur.birke@open-mail.none;9501 3000 0879 1470;08/18;Mastercard
 309;;Claus;Dietel;m;25.07.1959;05923/98022744;;cdietel@spam-mail.none;0500 0000 0822 2245;10/12;American Express
 310;;Elsgard;Gerards;;22.04.2019;;0165/4652233;elsgardgerards@anymail.none;6601 2400 0873 3900;01/10;Mastercard
 311;;Ilsa;Wezel;w;26.06.1916;;0165/6119649;ilsa1916@anymail.none;0500 0000 0330 9863;10/19;Mastercard
-312;GlückAuf;Klarissa;Zander;d;14.06.1902;;0168/6149344;klarissazander@bestmail.none;0520 0000 0027 7808;10/17;Mastercard
+312;GlÃ¼ckAuf;Klarissa;Zander;d;14.06.1902;;0168/6149344;klarissazander@bestmail.none;0520 0000 0027 7808;10/17;Mastercard
 313;;Hartmut;Speiser;m;06.04.1982;03901/82039258;0155/3272273;hartmut.speiser@quickmail.none;0903 0000 0188 5599;01/11;American Express
 314;Ruhrmorig;Amelie;Riede;w;26.08.2004;;;amelieriede@open-mail.none;1500 0000 0350 4480;04/18;VISA
 315;Blaetterglueck;Fabio;Butsch;m;15.06.2011;0395/50007504;;fabiobutsch@bestmail.none;0601 0000 0128 5504;12/91;American Express
 316;;Catharina;Frieling;d;16.11.1981;08083/63867424;0157/3385829;catharina.frieling@goggle-mail.none;0613 0300 0653 8429;09/93;Mastercard
-317;Abendröte;Erwin;Kalus;m;12.03.2016;05532/40514154;0152/5508416;ekalus@anymail.none;7613 4300 0367 1640;12/17;American Express
+317;AbendrÃ¶te;Erwin;Kalus;m;12.03.2016;05532/40514154;0152/5508416;ekalus@anymail.none;7613 4300 0367 1640;12/17;American Express
 318;;Marcel;Filser;m;10.08.2014;02662/70425131;;marcelfilser@open-mail.none;2911 2000 0746 7730;02/02;VISA
-319;Abendröte;Timon;Zeilinger;m;25.08.1944;;0176/1928051;timon.zeilinger@quickmail.none;0500 0000 0018 2918;01/13;VISA
+319;AbendrÃ¶te;Timon;Zeilinger;m;25.08.1944;;0176/1928051;timon.zeilinger@quickmail.none;0500 0000 0018 2918;01/13;VISA
 320;;Siegbert;Peikert;m;04.02.2001;06821/23523445;0160/3426485;siegbert.2001@live-mail.none;5623 0000 0678 9500;12/02;VISA
-321;VolleRose;Hansjürgen;Siebers;m;02.05.1928;06432/35397987;0155/4730091;hansjuergen.siebers@web.none;3400 7600 0709 7670;04/99;VISA
-322;;Nicholas;Kügler;m;07.02.1921;;0154/7066312;nicholas_21@quickmail.none;0616 9800 0343 8287;01/21;VISA
-323;;Simpert;Höing;d;21.10.1998;07195/1739328;;simpert.hoeing@trashmail.none;0961 2400 0292 2672;09/01;VISA
+321;VolleRose;HansjÃ¼rgen;Siebers;m;02.05.1928;06432/35397987;0155/4730091;hansjuergen.siebers@web.none;3400 7600 0709 7670;04/99;VISA
+322;;Nicholas;KÃ¼gler;m;07.02.1921;;0154/7066312;nicholas_21@quickmail.none;0616 9800 0343 8287;01/21;VISA
+323;;Simpert;HÃ¶ing;d;21.10.1998;07195/1739328;;simpert.hoeing@trashmail.none;0961 2400 0292 2672;09/01;VISA
 324;;Jona;Schwindt;m;04.11.1980;08191/17756751;0161/6637124;jona.schwindt@quickmail.none;4600 4600 0405 9080;08/09;Mastercard
-325;GlückAuf;Finchen;Thum;w;20.01.1966;0241/91817106;;f-1966@kitty.none;6625 4000 0821 4150;01/01;VISA
+325;GlÃ¼ckAuf;Finchen;Thum;w;20.01.1966;0241/91817106;;f-1966@kitty.none;6625 4000 0821 4150;01/01;VISA
 326;;Herwald;Wetzig;m;12.04.1969;07171/98503941;0158/5685992;h.wetzig@trashmail.none;0400 2800 0808 0412;04/03;VISA
 327;Ruhrmorig;Thankmar;Gomez;m;31.01.1960;06202/79379640;0160/7340250;thankmar-1960@company.none;6500 1000 0326 5380;06/13;Mastercard
-328;Blaetterglueck;Klauspeter;Dölling;;29.12.1995;;;klauspeter.doelling@domain.none;0503 5300 0162 7331;10/14;Mastercard
-329;;Reglindis;Wünsche;;26.01.1983;06047/39016515;0174/1891764;reglindis-83@private.none;2624 5500 0966 6220;05/16;VISA
-330;WochenendGLück;Lilo;Lamberti;w;14.10.1944;;0177/8655188;l44@xyz.none;2500 2000 0894 4120;01/16;VISA
+328;Blaetterglueck;Klauspeter;DÃ¶lling;;29.12.1995;;;klauspeter.doelling@domain.none;0503 5300 0162 7331;10/14;Mastercard
+329;;Reglindis;WÃ¼nsche;;26.01.1983;06047/39016515;0174/1891764;reglindis-83@private.none;2624 5500 0966 6220;05/16;VISA
+330;WochenendGLÃ¼ck;Lilo;Lamberti;w;14.10.1944;;0177/8655188;l44@xyz.none;2500 2000 0894 4120;01/16;VISA
 331;;Erdmuthe;Rieckmann;w;17.05.1917;06724/82933857;0167/3219000;erdmuthe-rieckmann@domain.none;1691 8600 0607 2130;01/13;VISA
 332;Druff1848;Frowin;Seider;m;19.03.2006;06849/79708596;0165/3571441;f.2006@web.none;6500 1000 0259 4650;01/19;VISA
 333;;Juri;Zettl;m;11.07.1968;03464/43718790;0154/3095220;jurizettl@live-mail.none;3900 0000 0234 2770;07/20;Mastercard
-334;Abendröte;Sibille;Pfaff;w;23.02.1987;;0173/2530200;sibille.87@xyz.none;5514 8000 0695 2020;04/18;VISA
+334;AbendrÃ¶te;Sibille;Pfaff;w;23.02.1987;;0173/2530200;sibille.87@xyz.none;5514 8000 0695 2020;04/18;VISA
 335;;Axel;Ederer;m;11.01.1993;02692/45773688;0159/6683787;axel_ederer@company.none;3613 4200 0182 6120;01/16;VISA
-336;;Hanswolf;Gröger;m;23.12.1999;09662/72812196;0159/4887790;hanswolf-99@email.none;2800 2000 0499 2830;09/20;Mastercard
+336;;Hanswolf;GrÃ¶ger;m;23.12.1999;09662/72812196;0159/4887790;hanswolf-99@email.none;2800 2000 0499 2830;09/20;Mastercard
 337;;Andrea;Gaspar;w;26.01.1964;03904/73799184;0153/2748792;andrea64@net-mail.none;0690 1000 0345 6043;09/95;Mastercard
-338;Abendröte;Albert;Klemt;;13.03.1941;;0152/9750059;albert1941@bestmail.none;4515 4800 0829 7550;05/13;VISA
+338;AbendrÃ¶te;Albert;Klemt;;13.03.1941;;0152/9750059;albert1941@bestmail.none;4515 4800 0829 7550;05/13;VISA
 339;;Norman;Bausch;m;06.08.1975;06766/59459165;;norman_bausch@retromail.none;0502 9900 0603 0385;10/18;Mastercard
-340;Abendröte;Ulvi;Haubrich;m;01.03.2019;04351/3306192;;ulvi.haubrich@retromail.none;0500 0000 0188 8498;08/16;Mastercard
+340;AbendrÃ¶te;Ulvi;Haubrich;m;01.03.2019;04351/3306192;;ulvi.haubrich@retromail.none;0500 0000 0188 8498;08/16;Mastercard
 341;Blaetterglueck;Kurth;Herling;;13.04.1913;;0150/2032774;kurthherling@retromail.none;0800 4000 0413 7874;04/11;American Express
 342;;Hanshermann;Eichenseer;m;02.08.1929;07345/35984483;;hanshermann_eichenseer@spam-mail.none;6665 4800 0669 8760;08/97;Mastercard
-343;WochenendGLück;Detlev;Gruß;;15.06.1964;06550/59292159;0167/5901910;detlev-gruss@retromail.none;0501 8000 0167 8386;10/16;Mastercard
+343;WochenendGLÃ¼ck;Detlev;GruÃŸ;;15.06.1964;06550/59292159;0167/5901910;detlev-gruss@retromail.none;0501 8000 0167 8386;10/16;Mastercard
 344;;Ottkar;Dierolf;m;07.07.1922;;0172/8907867;ottkar_dierolf@xyz.none;0400 0000 0034 0968;08/20;Mastercard
 345;Druff1848;Burga;Frommer;w;05.04.1925;06559/34185026;0174/6946475;burga_frommer@validmail.none;0800 0000 0905 7669;03/21;VISA
 346;;Lydia;Maschke;w;15.02.1976;07275/34392515;0153/6568426;lydia-76@anymail.none;3525 6500 0676 4290;09/85;Mastercard
-347;Abendröte;Jörn;Schmieder;m;22.07.2015;02651/43267320;0175/6280181;joern-schmieder@net-mail.none;3600 1100 0149 9250;06/14;Mastercard
+347;AbendrÃ¶te;JÃ¶rn;Schmieder;m;22.07.2015;02651/43267320;0175/6280181;joern-schmieder@net-mail.none;3600 1100 0149 9250;06/14;Mastercard
 348;;Reni;Alm;w;10.01.1910;;0152/8851846;ralm@net-mail.none;0501 0100 0597 8241;12/20;American Express
 349;;Franzpeter;Klinke;m;02.09.1913;;0173/8915147;franzpeterklinke@email.none;3519 6000 0698 5110;10/09;Mastercard
 350;;Hilgrun;Toth;w;25.01.1975;06753/3031755;0179/7399492;h_toth@live-mail.none;1502 0000 0095 9780;07/80;Mastercard
