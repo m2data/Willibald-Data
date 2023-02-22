@@ -132,7 +132,12 @@ von 1 auf 2: 1843 Inserts
 
 von 2 auf 3: 525 Inserts
 
-- [ ] Löschen von Positionen
+Löschungen:
+
+​	•Zwischen Periode 1 und 2 alle Positionen mit BestellungID 99, 220 und 465.
+
+​	•Zwischen Periode 2 und 3 alle Positionen mit 1470 und die 1288.
+
 - [ ] Änderungen in LieferAdresse
 
 ## LieferDienst

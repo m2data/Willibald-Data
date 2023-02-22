@@ -50,6 +50,8 @@
   Deleted duplicate row with KundeID 350 in 'Testdaten Periode 2/Kunde.csv'
   Minor error in the testcase description fixed
 
+  
+
 - 13.2.23
   Changed the Bestelldatum 
 
@@ -66,9 +68,21 @@
   The credit card number was wrong in some cases. This is now fixed and they match between Customer and RS_Bestellung. However, please use only credit card and GueltigBis. The credit card company has some data quality issues...
 
   
+  
+- 22.2.23
+
+  Day 1 of Roadshow had GlueckAuf instead of the correct name 'GlückAuf'
+
+  The deletes were missing in Bestellung and Position. They are now deleted.
+
+  The prices on the Roadshow where to high compared to the Webshop, this has been corrected.
+
+  There were no open deliveries, some records of Lieferung have been deleted.
 
   
-
+  
+  
+  
   
 
 
