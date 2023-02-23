@@ -71,13 +71,13 @@
   
 - 22.2.23
 
-  Day 1 of Roadshow had GlueckAuf instead of the correct name 'GlückAuf'
+  On the roadshow day 1 there was     a wrong name on the VereinsPartner. Day 1 of Roadshow had 'GlueckAuf' instead of the correct name 'GlückAuf'.
 
-  The deletes were missing in Bestellung and Position. They are now deleted.
+  The described deletion in Bestellung (order) and Position (order item) was not in the data. Now the specified records get deleted on the second and third delivery.
 
-  The prices on the Roadshow where to high compared to the Webshop, this has been corrected.
+  The prices on the roadshow were too high. The webshop was 1000 times higher than the roadshow. The roadshow is still more profitable than a week of webshop.
 
-  There were no open deliveries, some records of Lieferung have been deleted.
+  There were no open deliveries, so I deleted some entries from Lieferung on all 3 deliveries. now we have 20 open after first week, 30 after second week and 32 after third week.
 
   
   
