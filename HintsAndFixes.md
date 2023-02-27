@@ -68,7 +68,7 @@
   The credit card number was wrong in some cases. This is now fixed and they match between Customer and RS_Bestellung. However, please use only credit card and GueltigBis. The credit card company has some data quality issues...
 
   
-  
+
 - 22.2.23
 
   On the roadshow day 1 there was     a wrong name on the VereinsPartner. Day 1 of Roadshow had 'GlueckAuf' instead of the correct name 'GlückAuf'.
@@ -80,9 +80,17 @@
   There were no open deliveries, so I deleted some entries from Lieferung on all 3 deliveries. now we have 20 open after first week, 30 after second week and 32 after third week.
 
   
+
+- 27.2.23
+
+  On 'Webshop Periode 1/Lieferung.csv' removal of empty lines.
+
+  On 'Webshop Periode 3/Bestellung.csv' correction of falsely formatted date attributes on the last 5 lines.
+
   
+
   
-  
+
   
 
 
