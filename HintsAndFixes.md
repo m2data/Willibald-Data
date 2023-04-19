@@ -89,6 +89,16 @@
 
   
 
+- 19.4.23
+
+  There aren't as many changes in the pattern a->b->a on the relationship between Kunde and VereinsPartner as announced. This has been corrected:
+
+  - Testdaten Periode 3/Kunde: KundeID = '12' has now 'VolleRose' in VereinsPartnerID
+  - Testdaten Periode 3/Kunde: KundeID = '13' has now NULL in VereinsPartnerID
+  - Testdaten Periode 2/Kunde: KundeID = '16' has now 'VolleRose' in VereinsPartnerID
+
+  
+
   
 
   
