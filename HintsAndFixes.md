@@ -99,17 +99,7 @@
 
   
 
-  
+- 20.4.23
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  The content of 'Testperiode 2/Lieferung.csv' was wrong. It didn't had the changes on the file done on the 22.2.23 'no open deliveries' in it. So I now have done the deletes in there as well.
+  The 'Testdaten Periode 2/INSERT_Lieferung.csv' was correct. Testing is so far only done on the insert statements, this will have to expanded to the csv files as well.
