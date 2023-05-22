@@ -6,7 +6,7 @@ In diesem Projekt liegen die Daten und das Datenmodell für die fiktive Firma 'S
 
 ## Die Ausgangsdaten
 
-Die Firma Willibald ist ein Traditionshaus und handelt mit Samen und Pflanzen über das Internet. Früher wurde ausschliesslich über einen Katalog verkauft. Der Katalog wurde 2000, ganze 4 Jahre nach der Eröffnung des Webshops schnell beendet. Willibald war der erste Pflanzenbedarfsladen im Internet und ist da heute noch stolz darauf.
+Die Firma Willibald ist ein Traditionshaus und handelt mit Samen und Pflanzen über das Internet. Früher wurde ausschließlich über einen Katalog verkauft. Der Katalog wurde 2000, ganze 4 Jahre nach der Eröffnung des Webshops schnell beendet. Willibald war der erste Pflanzenbedarfsladen im Internet und ist da heute noch stolz darauf.
 
 Mit der Bestellung über die Website kann man einen Wunschtermin zur Lieferung eingeben und dieser wird aktuell zu 90% eingehalten. Die Bestellung ist ein sehr einfacher Prozess, der Kunde wählt seine Produkte und bestellt. Dabei kann er pro Bestellposition eine Lieferadresse angeben.
 

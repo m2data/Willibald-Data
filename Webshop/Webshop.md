@@ -26,9 +26,9 @@ Periode 2: 350 Sätze
 
 Periode 3:  410 Sätze
 
-von 1 auf 2: 50 Inserts, 15 Updates, 1 Delete
+von 1 auf 2: 50 Inserts, 16 Updates, 1 Delete
 
-von 2 auf 3: 61 Inserts, 40 Updates (KundeID 70 wird reanimiert)
+von 2 auf 3: 61 Inserts, 43 Updates (KundeID 70 wird reanimiert)
 
 ## Wohnort
 Periode 1:  700 Sätze
@@ -147,20 +147,20 @@ Periode 2: 80 Sätze
 
 Periode 3: 80 Sätze
 
-von 1 auf 2: 27 Updates, 2 Inserts, 2 Delete
+von 1 auf 2: 2 Inserts, 2 Delete
 
 von 2 auf 3: keine Veränderungen
 
 ## Lieferung
-Periode 1:  2000 Sätze
+Periode 1:  1951Sätze
 
-Periode 2:  3843 Sätze
+Periode 2:  3769 Sätze
 
-Periode 3:  4368 Sätze
+Periode 3:  4319 Sätze
 
-von 1 auf 2: 1843 Inserts
+von 1 auf 2: 1818 Inserts
 
-von 2 auf 3: 525 Inserts
+von 2 auf 3: 550 Inserts
 
 
 

@@ -201,9 +201,3 @@ Then the value must change with the start of period 2:
 | xxx | xxx | order active too long | error |
 | zzz | zzz | direct sale, no delivery | irrelevant |
 | yyy | yyy | not yet delivered | not yet |
-
-
-
-## Not tested
-
-- Transfer of a load date timestamp from the input data

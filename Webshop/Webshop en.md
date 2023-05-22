@@ -26,9 +26,9 @@ Period 2: 350 records
 
 Period 3: 410 records
 
-from 1 to 2: 50 inserts, 15 updates, 1 delete
+from 1 to 2: 50 inserts, 16 updates, 1 delete
 
-from 2 to 3: 61 inserts, 40 updates (customer ID 70 reappears)
+from 2 to 3: 61 inserts, 42 updates (customer ID 70 reappears)
 
 ## Residence
 Period 1: 700 records
@@ -128,11 +128,10 @@ Period 2: 3843 records
 
 Period 3: 4368 records
 
-from 1 to 2: 1843 inserts
+from 1 to 2: 1843 inserts, 7 Deletes
 
-from 2 to 3: 525 inserts
+from 2 to 3: 525 inserts, 6 Deletes
 
-- [ ] Deletion of items
 - [ ] Changes in delivery address
 
 ## Delivery
@@ -142,20 +141,20 @@ Period 2: 80 records
 
 Period 3: 80 records
 
-from 1 to 2: 27 updates, 2 inserts, 2 deletes
+from 1 to 2: 2 inserts, 2 deletes
 
 from 2 to 3: no changes
 
 ## Delivery service
-Period 1: 2000 records
+Period 1: 1951 records
 
-Period 2: 3843 records
+Period 2: 3769 records
 
-Period 3: 4368 records
+Period 3: 4319 records
 
-from 1 to 2: 1843 inserts
+from 1 to 2: 1818 inserts
 
-from 2 to 3: 525 inserts
+from 2 to 3: 550 inserts
 
 
 

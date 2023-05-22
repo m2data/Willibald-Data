@@ -1,0 +1,10 @@
+﻿Anzahl Tage von;Anzahl Tage bis;Bezeichnung;Bewertung
+-1000000;-5;mehr als 5 Tage früher;viel zu früh
+-5;0;bis zu 5 Tagen zu früh;zu früh
+0;1;pünktlich;pünktlich
+1;4;bis zu 3 Tagen zu spät;zu spät
+4;10;4 bis 10 Tage zu spät;deutlich zu spät
+10;1000000;mehr als 10 Tage spät;viel zu spät
+xxx;xxx;Auftrag zu lange aktiv;Fehler
+zzz;zzz;Abverkauf, keine Lieferung;irrelevant
+yyy;yyy;noch nicht geliefert;noch nicht relevant

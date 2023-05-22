@@ -103,3 +103,10 @@
 
   The content of 'Testperiode 2/Lieferung.csv' was wrong. It didn't had the changes on the file done on the 22.2.23 'no open deliveries' in it. So I now have done the deletes in there as well.
   The 'Testdaten Periode 2/INSERT_Lieferung.csv' was correct. Testing is so far only done on the insert statements, this will have to expanded to the csv files as well.
+
+  
+
+- 22.5.2023
+
+
+  Only in all 3 of the position.csv where € symbols in the price attribute. The insert files where without it. This has been corrected. In 'Testdaten Periode 3/wohnort.csv' the missing attribute 'Land' has been added.

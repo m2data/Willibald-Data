@@ -208,9 +208,3 @@ Dann muss sich der Wert mit Beginn von Periode 2 ändern:
 |       xxx       |       xxx       | Auftrag zu lange aktiv     | Fehler              |
 |       zzz       |       zzz       | Abverkauf, keine Lieferung | irrelevant          |
 |       yyy       |       yyy       | noch nicht geliefert       | noch nicht relevant |
-
-
-
-## Nicht getestet
-
-- Übernahme eines Load Date Timestamp aus den Inputdaten
