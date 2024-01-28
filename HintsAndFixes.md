@@ -71,7 +71,7 @@
 
 - 22.2.23
 
-  On the roadshow day 1 there was     a wrong name on the VereinsPartner. Day 1 of Roadshow had 'GlueckAuf' instead of the correct name 'GlückAuf'.
+  On the roadshow day 1 there was a wrong name on the VereinsPartner. Day 1 of Roadshow had 'GlueckAuf' instead of the correct name 'GlückAuf'.
 
   The described deletion in Bestellung (order) and Position (order item) was not in the data. Now the specified records get deleted on the second and third delivery.
 

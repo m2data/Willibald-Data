@@ -119,8 +119,6 @@ Deletions:
 
 -Between periods 2 and 3 the order ID 1470 and 1288.
 
-- [ ] Change of desired date
-
 ## Position
 Period 1: 2000 records
 
@@ -131,8 +129,6 @@ Period 3: 4368 records
 from 1 to 2: 1843 inserts, 7 Deletes
 
 from 2 to 3: 525 inserts, 6 Deletes
-
-- [ ] Changes in delivery address
 
 ## Delivery
 Period 1: 80 records

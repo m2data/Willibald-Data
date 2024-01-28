@@ -119,8 +119,6 @@ Löschungen:
 
 ​	•Zwischen Periode 2 und 3 die BestellungID 1470 und die 1288.
 
-- [ ] Änderung von Wunschdatum
-
 ## Position
 Periode 1:  2000 Sätze
 
@@ -137,8 +135,6 @@ Löschungen:
 ​	•Zwischen Periode 1 und 2 alle Positionen mit BestellungID 99, 220 und 465.
 
 ​	•Zwischen Periode 2 und 3 alle Positionen mit 1470 und die 1288.
-
-- [ ] Änderungen in LieferAdresse
 
 ## LieferDienst
 Periode 1:  80 Sätze
