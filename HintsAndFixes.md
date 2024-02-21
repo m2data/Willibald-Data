@@ -116,3 +116,9 @@
 
   If you count the simple revenue (Menge/Amount * Preis/Price) for the Roadshow from the delivered files and compare it with the simple revenue of the Roadshow on the 26. of March, the figure should be the same. In reality you will get a difference of 336,- €.
   There are 2 IDs in Roadshow Delivery 2 that are also in Roadshow Delivery 3 - data quality issues...
+  
+  
+  
+- 21.2.2024
+
+  Added a ';' to each line in the 'INSERT_<Table>.sql' - Statements.
